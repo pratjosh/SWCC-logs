@@ -1,0 +1,681 @@
+08 Dec 2024 14:14:22.256 +0300  dw-208 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUC&msg=M22%20%7C%20%20%7C%20TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function&stack=TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function%0A%20%20%20%20at%20m.Xj%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2Frmsdmsn%2FDocInfo%2FDocinfo.aspx%3FFORM%3DIN%26MODE%3D99%26DocNo%3D832896%26AppId%3D1%26CabId%3D11601%26TrgID%3D_btnMultiCabTrigger%26INTDEPT%3D%26PreveVal%3D9442%7CNQZF%2BfGT3yiELikrsWBaBZu%2B1BVCoXL1gK%2Bgm3oMcw0%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A197%3A463)%0A%20%20%20%20at%20console.%3Canonymous%3E%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2Frmsdmsn%2FDocInfo%2FDocinfo.aspx%3FFORM%3DIN%26MODE%3D99%26DocNo%3D832896%26AppId%3D1%26CabId%3D11601%26TrgID%3D_btnMultiCabTrigger%26INTDEPT%3D%26PreveVal%3D9442%7CNQZF%2BfGT3yiELikrsWBaBZu%2B1BVCoXL1gK%2Bgm3oMcw0%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A197%3A217)%0A%20%20%20%20at%20console.error%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2Frmsdmsn%2FDocInfo%2FDocinfo.aspx%3FFORM%3DIN%26MODE%3D99%26DocNo%3D832896%26AppId%3D1%26CabId%3D11601%26TrgID%3D_btnMultiCabTrigger%26INTDEPT%3D%26PreveVal%3D9442%7CNQZF%2BfGT3yiELikrsWBaBZu%2B1BVCoXL1gK%2Bgm3oMcw0%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A64%3A215)%0A%20%20%20%20at%20https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2Frmsdmsn%2FFileUpload%2FResources%2Fdynamsoft.webtwain.initiate.js%3F55%3A17%3A816599%0A%20%20%20%20at%20https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2Frmsdmsn%2FDocInfo%2FDocinfo.aspx%3FFORM%3DIN%26MODE%3D99%26DocNo%3D832896%26AppId%3D1%26CabId%3D11601%26TrgID%3D_btnMultiCabTrigger%26INTDEPT%3D%26PreveVal%3D9442%7CNQZF%2BfGT3yiELikrsWBaBZu%2B1BVCoXL1gK%2Bgm3oMcw0%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A63%3A464  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: a.utils.toJSONString is not a function] from [10.12.10.249:null], appKey [EUM-AAB-AUC], pageUrl [https://tarasul1.swcc.gov.sa/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0], call stack: 
+ |	TypeError: a.utils.toJSONString is not a function
+ |	    at m.Xj (https://tarasul1.swcc.gov.sa/ECM7/rmsdmsn/DocInfo/Docinfo.aspx?FORM=IN&MODE=99&DocNo=832896&AppId=1&CabId=11601&TrgID=_btnMultiCabTrigger&INTDEPT=&PreveVal=9442|NQZF+fGT3yiELikrsWBaBZu+1BVCoXL1gK+gm3oMcw0=|Ovg2jyFD/HdfMltllI2GJQ==1:197:463)
+ |	    at console.<anonymous> (https://tarasul1.swcc.gov.sa/ECM7/rmsdmsn/DocInfo/Docinfo.aspx?FORM=IN&MODE=99&DocNo=832896&AppId=1&CabId=11601&TrgID=_btnMultiCabTrigger&INTDEPT=&PreveVal=9442|NQZF+fGT3yiELikrsWBaBZu+1BVCoXL1gK+gm3oMcw0=|Ovg2jyFD/HdfMltllI2GJQ==1:197:217)
+ |	    at console.error (https://tarasul1.swcc.gov.sa/ECM7/rmsdmsn/DocInfo/Docinfo.aspx?FORM=IN&MODE=99&DocNo=832896&AppId=1&CabId=11601&TrgID=_btnMultiCabTrigger&INTDEPT=&PreveVal=9442|NQZF+fGT3yiELikrsWBaBZu+1BVCoXL1gK+gm3oMcw0=|Ovg2jyFD/HdfMltllI2GJQ==1:64:215)
+ |	    at https://tarasul1.swcc.gov.sa/ECM7/rmsdmsn/FileUpload/Resources/dynamsoft.webtwain.initiate.js?55:17:816599
+ |	    at https://tarasul1.swcc.gov.sa/ECM7/rmsdmsn/DocInfo/Docinfo.aspx?FORM=IN&MODE=99&DocNo=832896&AppId=1&CabId=11601&TrgID=_btnMultiCabTrigger&INTDEPT=&PreveVal=9442|NQZF+fGT3yiELikrsWBaBZu+1BVCoXL1gK+gm3oMcw0=|Ovg2jyFD/HdfMltllI2GJQ==1:63:464
+ +---------------------------------------------------------------------------------------
+
+08 Dec 2024 14:44:06.090 +0300  dw-229 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUC&msg=M22%20%7C%20%20%7C%20TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function&stack=TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function%0A%20%20%20%20at%20m.Xj%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FRmsdmsn%2FDocInfo%2FDocInfo.aspx%3FFORM%3DIN%26L%3D0%26Docno%3D830194%26DocSrc%3D1%26AppID%3D1%26CabID%3D11601%26SubmtPar%3D0%26Mode%3D99%26Lfp%3DAdvSearch%26EDL%3D1%26PreveVal%3D22385%7CgTcRu8onsF2NaF6SiH4slWBXXpUyPkBdSjtZ4Kyhb5o%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A197%3A463)%0A%20%20%20%20at%20console.%3Canonymous%3E%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FRmsdmsn%2FDocInfo%2FDocInfo.aspx%3FFORM%3DIN%26L%3D0%26Docno%3D830194%26DocSrc%3D1%26AppID%3D1%26CabID%3D11601%26SubmtPar%3D0%26Mode%3D99%26Lfp%3DAdvSearch%26EDL%3D1%26PreveVal%3D22385%7CgTcRu8onsF2NaF6SiH4slWBXXpUyPkBdSjtZ4Kyhb5o%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A197%3A217)%0A%20%20%20%20at%20console.error%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FRmsdmsn%2FDocInfo%2FDocInfo.aspx%3FFORM%3DIN%26L%3D0%26Docno%3D830194%26DocSrc%3D1%26AppID%3D1%26CabID%3D11601%26SubmtPar%3D0%26Mode%3D99%26Lfp%3DAdvSearch%26EDL%3D1%26PreveVal%3D22385%7CgTcRu8onsF2NaF6SiH4slWBXXpUyPkBdSjtZ4Kyhb5o%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A64%3A215)%0A%20%20%20%20at%20https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FRmsdmsn%2FFileUpload%2FResources%2Fdynamsoft.webtwain.initiate.js%3F55%3A17%3A816599%0A%20%20%20%20at%20https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FRmsdmsn%2FDocInfo%2FDocInfo.aspx%3FFORM%3DIN%26L%3D0%26Docno%3D830194%26DocSrc%3D1%26AppID%3D1%26CabID%3D11601%26SubmtPar%3D0%26Mode%3D99%26Lfp%3DAdvSearch%26EDL%3D1%26PreveVal%3D22385%7CgTcRu8onsF2NaF6SiH4slWBXXpUyPkBdSjtZ4Kyhb5o%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A63%3A464  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: a.utils.toJSONString is not a function] from [10.12.10.249:null], appKey [EUM-AAB-AUC], pageUrl [https://tarasul1.swcc.gov.sa/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0], call stack: 
+ |	TypeError: a.utils.toJSONString is not a function
+ |	    at m.Xj (https://tarasul1.swcc.gov.sa/ECM7/Rmsdmsn/DocInfo/DocInfo.aspx?FORM=IN&L=0&Docno=830194&DocSrc=1&AppID=1&CabID=11601&SubmtPar=0&Mode=99&Lfp=AdvSearch&EDL=1&PreveVal=22385|gTcRu8onsF2NaF6SiH4slWBXXpUyPkBdSjtZ4Kyhb5o=|Ovg2jyFD/HdfMltllI2GJQ==1:197:463)
+ |	    at console.<anonymous> (https://tarasul1.swcc.gov.sa/ECM7/Rmsdmsn/DocInfo/DocInfo.aspx?FORM=IN&L=0&Docno=830194&DocSrc=1&AppID=1&CabID=11601&SubmtPar=0&Mode=99&Lfp=AdvSearch&EDL=1&PreveVal=22385|gTcRu8onsF2NaF6SiH4slWBXXpUyPkBdSjtZ4Kyhb5o=|Ovg2jyFD/HdfMltllI2GJQ==1:197:217)
+ |	    at console.error (https://tarasul1.swcc.gov.sa/ECM7/Rmsdmsn/DocInfo/DocInfo.aspx?FORM=IN&L=0&Docno=830194&DocSrc=1&AppID=1&CabID=11601&SubmtPar=0&Mode=99&Lfp=AdvSearch&EDL=1&PreveVal=22385|gTcRu8onsF2NaF6SiH4slWBXXpUyPkBdSjtZ4Kyhb5o=|Ovg2jyFD/HdfMltllI2GJQ==1:64:215)
+ |	    at https://tarasul1.swcc.gov.sa/ECM7/Rmsdmsn/FileUpload/Resources/dynamsoft.webtwain.initiate.js?55:17:816599
+ |	    at https://tarasul1.swcc.gov.sa/ECM7/Rmsdmsn/DocInfo/DocInfo.aspx?FORM=IN&L=0&Docno=830194&DocSrc=1&AppID=1&CabID=11601&SubmtPar=0&Mode=99&Lfp=AdvSearch&EDL=1&PreveVal=22385|gTcRu8onsF2NaF6SiH4slWBXXpUyPkBdSjtZ4Kyhb5o=|Ovg2jyFD/HdfMltllI2GJQ==1:63:464
+ +---------------------------------------------------------------------------------------
+
+12 Dec 2024 07:38:37.230 +0300  dw-220 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUC&msg=M22%20%7C%20%20%7C%20TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function&stack=TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function%0A%20%20%20%20at%20m.Xj%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FECMDMS%2FEditor%2FCreateEditor.aspx%3FL%3D0%26AppId%3D1%26CabId%3D11603%26Mode%3D1%26INOUT%3D2%26N%3D1%26PreveVal%3D8887%7CJN3QIrwY2hnv7pp%2BqYYUICPvYM8wRepFtpeFiJE3A7U%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A197%3A463)%0A%20%20%20%20at%20console.%3Canonymous%3E%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FECMDMS%2FEditor%2FCreateEditor.aspx%3FL%3D0%26AppId%3D1%26CabId%3D11603%26Mode%3D1%26INOUT%3D2%26N%3D1%26PreveVal%3D8887%7CJN3QIrwY2hnv7pp%2BqYYUICPvYM8wRepFtpeFiJE3A7U%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A197%3A217)%0A%20%20%20%20at%20console.error%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FECMDMS%2FEditor%2FCreateEditor.aspx%3FL%3D0%26AppId%3D1%26CabId%3D11603%26Mode%3D1%26INOUT%3D2%26N%3D1%26PreveVal%3D8887%7CJN3QIrwY2hnv7pp%2BqYYUICPvYM8wRepFtpeFiJE3A7U%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A64%3A215)%0A%20%20%20%20at%20https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FRMSDMSN%2FFileUpload%2FResources%2Fdynamsoft.webtwain.initiate.js%3F55%3A17%3A816599%0A%20%20%20%20at%20https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FECMDMS%2FEditor%2FCreateEditor.aspx%3FL%3D0%26AppId%3D1%26CabId%3D11603%26Mode%3D1%26INOUT%3D2%26N%3D1%26PreveVal%3D8887%7CJN3QIrwY2hnv7pp%2BqYYUICPvYM8wRepFtpeFiJE3A7U%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A63%3A464  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: a.utils.toJSONString is not a function] from [10.12.10.249:null], appKey [EUM-AAB-AUC], pageUrl [https://tarasul1.swcc.gov.sa/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: a.utils.toJSONString is not a function
+ |	    at m.Xj (https://tarasul1.swcc.gov.sa/ECM7/ECMDMS/Editor/CreateEditor.aspx?L=0&AppId=1&CabId=11603&Mode=1&INOUT=2&N=1&PreveVal=8887|JN3QIrwY2hnv7pp+qYYUICPvYM8wRepFtpeFiJE3A7U=|Ovg2jyFD/HdfMltllI2GJQ==1:197:463)
+ |	    at console.<anonymous> (https://tarasul1.swcc.gov.sa/ECM7/ECMDMS/Editor/CreateEditor.aspx?L=0&AppId=1&CabId=11603&Mode=1&INOUT=2&N=1&PreveVal=8887|JN3QIrwY2hnv7pp+qYYUICPvYM8wRepFtpeFiJE3A7U=|Ovg2jyFD/HdfMltllI2GJQ==1:197:217)
+ |	    at console.error (https://tarasul1.swcc.gov.sa/ECM7/ECMDMS/Editor/CreateEditor.aspx?L=0&AppId=1&CabId=11603&Mode=1&INOUT=2&N=1&PreveVal=8887|JN3QIrwY2hnv7pp+qYYUICPvYM8wRepFtpeFiJE3A7U=|Ovg2jyFD/HdfMltllI2GJQ==1:64:215)
+ |	    at https://tarasul1.swcc.gov.sa/ECM7/RMSDMSN/FileUpload/Resources/dynamsoft.webtwain.initiate.js?55:17:816599
+ |	    at https://tarasul1.swcc.gov.sa/ECM7/ECMDMS/Editor/CreateEditor.aspx?L=0&AppId=1&CabId=11603&Mode=1&INOUT=2&N=1&PreveVal=8887|JN3QIrwY2hnv7pp+qYYUICPvYM8wRepFtpeFiJE3A7U=|Ovg2jyFD/HdfMltllI2GJQ==1:63:464
+ +---------------------------------------------------------------------------------------
+
+16 Dec 2024 07:59:57.009 +0300  dw-195 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUC&msg=M22%20%7C%20%20%7C%20TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function&stack=TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function%0A%20%20%20%20at%20m.Xj%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2Frmsdmsn%2FFileUpload%2FSaveXml.aspx%3FOIE%3D%26SaveFlag%3D%26L%3D0%26down%3D%26DocID%3D30188226%26DmsAppID%3D11603%26DocNo%3D837194%26hdWm%3D%26CstPdV%3D0%26ShowAll%3D1%26PreveVal%3D8542%7CI6zRa1ubhyoZn%2Bkc4jeTrgWZJucEH%2FdeUkTPbZZM5H0%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A194%3A463)%0A%20%20%20%20at%20console.%3Canonymous%3E%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2Frmsdmsn%2FFileUpload%2FSaveXml.aspx%3FOIE%3D%26SaveFlag%3D%26L%3D0%26down%3D%26DocID%3D30188226%26DmsAppID%3D11603%26DocNo%3D837194%26hdWm%3D%26CstPdV%3D0%26ShowAll%3D1%26PreveVal%3D8542%7CI6zRa1ubhyoZn%2Bkc4jeTrgWZJucEH%2FdeUkTPbZZM5H0%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A194%3A217)%0A%20%20%20%20at%20console.error%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2Frmsdmsn%2FFileUpload%2FSaveXml.aspx%3FOIE%3D%26SaveFlag%3D%26L%3D0%26down%3D%26DocID%3D30188226%26DmsAppID%3D11603%26DocNo%3D837194%26hdWm%3D%26CstPdV%3D0%26ShowAll%3D1%26PreveVal%3D8542%7CI6zRa1ubhyoZn%2Bkc4jeTrgWZJucEH%2FdeUkTPbZZM5H0%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A61%3A215)%0A%20%20%20%20at%20Sandbox.create%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FRMSDMSN%2FFileUpload%2FPDFViewer%2Fbuild%2Fpdf.sandbox.js%3A236%3A15)%0A%20%20%20%20at%20GenericScripting.createSandbox%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2Frmsdmsn%2FFileUpload%2FPDFViewer%2Fweb%2Fviewer.js%3F12%3A13439%3A29)%0A%20%20%20%20at%20async%20PDFScriptingManager.setDocument%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2Frmsdmsn%2FFileUpload%2FPDFViewer%2Fweb%2Fviewer.js%3F12%3A7139%3A25)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: a.utils.toJSONString is not a function] from [10.12.10.249:null], appKey [EUM-AAB-AUC], pageUrl [https://tarasul1.swcc.gov.sa/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: a.utils.toJSONString is not a function
+ |	    at m.Xj (https://tarasul1.swcc.gov.sa/ECM7/rmsdmsn/FileUpload/SaveXml.aspx?OIE=&SaveFlag=&L=0&down=&DocID=30188226&DmsAppID=11603&DocNo=837194&hdWm=&CstPdV=0&ShowAll=1&PreveVal=8542|I6zRa1ubhyoZn+kc4jeTrgWZJucEH/deUkTPbZZM5H0=|Ovg2jyFD/HdfMltllI2GJQ==1:194:463)
+ |	    at console.<anonymous> (https://tarasul1.swcc.gov.sa/ECM7/rmsdmsn/FileUpload/SaveXml.aspx?OIE=&SaveFlag=&L=0&down=&DocID=30188226&DmsAppID=11603&DocNo=837194&hdWm=&CstPdV=0&ShowAll=1&PreveVal=8542|I6zRa1ubhyoZn+kc4jeTrgWZJucEH/deUkTPbZZM5H0=|Ovg2jyFD/HdfMltllI2GJQ==1:194:217)
+ |	    at console.error (https://tarasul1.swcc.gov.sa/ECM7/rmsdmsn/FileUpload/SaveXml.aspx?OIE=&SaveFlag=&L=0&down=&DocID=30188226&DmsAppID=11603&DocNo=837194&hdWm=&CstPdV=0&ShowAll=1&PreveVal=8542|I6zRa1ubhyoZn+kc4jeTrgWZJucEH/deUkTPbZZM5H0=|Ovg2jyFD/HdfMltllI2GJQ==1:61:215)
+ |	    at Sandbox.create (https://tarasul1.swcc.gov.sa/ECM7/RMSDMSN/FileUpload/PDFViewer/build/pdf.sandbox.js:236:15)
+ |	    at GenericScripting.createSandbox (https://tarasul1.swcc.gov.sa/ECM7/rmsdmsn/FileUpload/PDFViewer/web/viewer.js?12:13439:29)
+ |	    at async PDFScriptingManager.setDocument (https://tarasul1.swcc.gov.sa/ECM7/rmsdmsn/FileUpload/PDFViewer/web/viewer.js?12:7139:25)
+ +---------------------------------------------------------------------------------------
+
+16 Dec 2024 08:14:03.318 +0300  dw-238 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function&stack=TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function%0A%20%20%20%20at%20m.Xj%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A181%3A463)%0A%20%20%20%20at%20console.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A181%3A217)%0A%20%20%20%20at%20console.error%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20handleInjectError%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fnode_modules%2F.vite%2Fdeps%2F%40react-google-maps_api.js%3Fv%3D14a98913%3A877%3A15)%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A47%3A464  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: a.utils.toJSONString is not a function] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: a.utils.toJSONString is not a function
+ |	    at m.Xj (http://localhost:5173/AuditReportFE/adrum/adrum.js:181:463)
+ |	    at console.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:181:217)
+ |	    at console.error (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at handleInjectError (http://localhost:5173/AuditReportFE/node_modules/.vite/deps/@react-google-maps_api.js?v=14a98913:877:15)
+ |	    at http://localhost:5173/AuditReportFE/adrum/adrum.js:47:464
+ +---------------------------------------------------------------------------------------
+
+16 Dec 2024 09:40:23.181 +0300  dw-217 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A401%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReportFE/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReportFE/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReportFE/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReportFE/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReportFE/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReportFE/@vite/client:401:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReportFE/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReportFE/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+16 Dec 2024 09:40:23.181 +0300  dw-215 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A405%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReportFE/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReportFE/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReportFE/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReportFE/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReportFE/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReportFE/@vite/client:405:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReportFE/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReportFE/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+16 Dec 2024 09:54:09.788 +0300  dw-233 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function&stack=TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function%0A%20%20%20%20at%20m.Xj%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A181%3A463)%0A%20%20%20%20at%20console.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A181%3A217)%0A%20%20%20%20at%20console.error%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20handleInjectError%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fnode_modules%2F.vite%2Fdeps%2F%40react-google-maps_api.js%3Fv%3D14a98913%3A877%3A15)%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A47%3A464  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: a.utils.toJSONString is not a function] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: a.utils.toJSONString is not a function
+ |	    at m.Xj (http://localhost:5173/AuditReportFE/adrum/adrum.js:181:463)
+ |	    at console.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:181:217)
+ |	    at console.error (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at handleInjectError (http://localhost:5173/AuditReportFE/node_modules/.vite/deps/@react-google-maps_api.js?v=14a98913:877:15)
+ |	    at http://localhost:5173/AuditReportFE/adrum/adrum.js:47:464
+ +---------------------------------------------------------------------------------------
+
+16 Dec 2024 10:37:21.186 +0300  dw-195 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A401%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReportFE/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReportFE/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReportFE/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReportFE/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReportFE/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReportFE/@vite/client:401:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReportFE/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReportFE/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+16 Dec 2024 10:37:21.186 +0300  dw-192 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A405%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReportFE/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReportFE/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReportFE/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReportFE/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReportFE/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReportFE/@vite/client:405:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReportFE/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReportFE/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+16 Dec 2024 10:41:29.683 +0300  dw-197 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUC&msg=M22%20%7C%20%20%7C%20TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function&stack=TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function%0A%20%20%20%20at%20m.Xj%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2Frmsdmsn%2FFileUpload%2FSaveXml.aspx%3FOIE%3D%26SaveFlag%3D%26L%3D0%26down%3D%26DocID%3D30188226%26DmsAppID%3D11603%26DocNo%3D837194%26hdWm%3D1%26CstPdV%3D1%26IsPrint%3D1%26ShowAll%3D1%26PreveVal%3D9254%7CG4hRkLw%2BqehviZrcMiTX5%2B30mpjGXr8LRtFD4ibJIfM%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A194%3A463)%0A%20%20%20%20at%20console.%3Canonymous%3E%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2Frmsdmsn%2FFileUpload%2FSaveXml.aspx%3FOIE%3D%26SaveFlag%3D%26L%3D0%26down%3D%26DocID%3D30188226%26DmsAppID%3D11603%26DocNo%3D837194%26hdWm%3D1%26CstPdV%3D1%26IsPrint%3D1%26ShowAll%3D1%26PreveVal%3D9254%7CG4hRkLw%2BqehviZrcMiTX5%2B30mpjGXr8LRtFD4ibJIfM%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A194%3A217)%0A%20%20%20%20at%20console.error%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2Frmsdmsn%2FFileUpload%2FSaveXml.aspx%3FOIE%3D%26SaveFlag%3D%26L%3D0%26down%3D%26DocID%3D30188226%26DmsAppID%3D11603%26DocNo%3D837194%26hdWm%3D1%26CstPdV%3D1%26IsPrint%3D1%26ShowAll%3D1%26PreveVal%3D9254%7CG4hRkLw%2BqehviZrcMiTX5%2B30mpjGXr8LRtFD4ibJIfM%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A61%3A215)%0A%20%20%20%20at%20Sandbox.create%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FRMSDMSN%2FFileUpload%2FPDFViewer%2Fbuild%2Fpdf.sandbox.js%3A236%3A15)%0A%20%20%20%20at%20GenericScripting.createSandbox%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2Frmsdmsn%2FFileUpload%2FPDFViewer%2Fweb%2Fviewer.js%3F12%3A13439%3A29)%0A%20%20%20%20at%20async%20PDFScriptingManager.setDocument%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2Frmsdmsn%2FFileUpload%2FPDFViewer%2Fweb%2Fviewer.js%3F12%3A7139%3A25)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: a.utils.toJSONString is not a function] from [10.12.10.249:null], appKey [EUM-AAB-AUC], pageUrl [https://tarasul1.swcc.gov.sa/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: a.utils.toJSONString is not a function
+ |	    at m.Xj (https://tarasul1.swcc.gov.sa/ECM7/rmsdmsn/FileUpload/SaveXml.aspx?OIE=&SaveFlag=&L=0&down=&DocID=30188226&DmsAppID=11603&DocNo=837194&hdWm=1&CstPdV=1&IsPrint=1&ShowAll=1&PreveVal=9254|G4hRkLw+qehviZrcMiTX5+30mpjGXr8LRtFD4ibJIfM=|Ovg2jyFD/HdfMltllI2GJQ==1:194:463)
+ |	    at console.<anonymous> (https://tarasul1.swcc.gov.sa/ECM7/rmsdmsn/FileUpload/SaveXml.aspx?OIE=&SaveFlag=&L=0&down=&DocID=30188226&DmsAppID=11603&DocNo=837194&hdWm=1&CstPdV=1&IsPrint=1&ShowAll=1&PreveVal=9254|G4hRkLw+qehviZrcMiTX5+30mpjGXr8LRtFD4ibJIfM=|Ovg2jyFD/HdfMltllI2GJQ==1:194:217)
+ |	    at console.error (https://tarasul1.swcc.gov.sa/ECM7/rmsdmsn/FileUpload/SaveXml.aspx?OIE=&SaveFlag=&L=0&down=&DocID=30188226&DmsAppID=11603&DocNo=837194&hdWm=1&CstPdV=1&IsPrint=1&ShowAll=1&PreveVal=9254|G4hRkLw+qehviZrcMiTX5+30mpjGXr8LRtFD4ibJIfM=|Ovg2jyFD/HdfMltllI2GJQ==1:61:215)
+ |	    at Sandbox.create (https://tarasul1.swcc.gov.sa/ECM7/RMSDMSN/FileUpload/PDFViewer/build/pdf.sandbox.js:236:15)
+ |	    at GenericScripting.createSandbox (https://tarasul1.swcc.gov.sa/ECM7/rmsdmsn/FileUpload/PDFViewer/web/viewer.js?12:13439:29)
+ |	    at async PDFScriptingManager.setDocument (https://tarasul1.swcc.gov.sa/ECM7/rmsdmsn/FileUpload/PDFViewer/web/viewer.js?12:7139:25)
+ +---------------------------------------------------------------------------------------
+
+16 Dec 2024 10:53:30.708 +0300  dw-193 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A401%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReportFE/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReportFE/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReportFE/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReportFE/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReportFE/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReportFE/@vite/client:401:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReportFE/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReportFE/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+16 Dec 2024 10:53:30.708 +0300  dw-232 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A405%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReportFE/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReportFE/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReportFE/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReportFE/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReportFE/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReportFE/@vite/client:405:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReportFE/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReportFE/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+16 Dec 2024 15:13:49.049 +0300  dw-234 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function&stack=TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function%0A%20%20%20%20at%20m.Xj%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A181%3A463)%0A%20%20%20%20at%20console.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A181%3A217)%0A%20%20%20%20at%20console.error%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20handleInjectError%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fnode_modules%2F.vite%2Fdeps%2F%40react-google-maps_api.js%3Fv%3D14a98913%3A877%3A15)%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A47%3A464  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: a.utils.toJSONString is not a function] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: a.utils.toJSONString is not a function
+ |	    at m.Xj (http://localhost:5173/AuditReportFE/adrum/adrum.js:181:463)
+ |	    at console.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:181:217)
+ |	    at console.error (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at handleInjectError (http://localhost:5173/AuditReportFE/node_modules/.vite/deps/@react-google-maps_api.js?v=14a98913:877:15)
+ |	    at http://localhost:5173/AuditReportFE/adrum/adrum.js:47:464
+ +---------------------------------------------------------------------------------------
+
+17 Dec 2024 09:23:52.429 +0300  dw-213 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUC&msg=M22%20%7C%20%20%7C%20TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function&stack=TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function%0A%20%20%20%20at%20m.Xj%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FRmsdmsn%2FDocInfo%2FDocInfo.aspx%3FFORM%3DIN%26L%3D0%26Docno%3D835196%26DocSrc%3D1%26AppID%3D1%26CabID%3D11601%26SubmtPar%3D0%26Mode%3D99%26Lfp%3DHome%26ViewNo%3D309%26PreveVal%3D14222%7CACq6LK3R0IqTv8PO3DBNlWYxXzhrDkWNqnps47q%2BSQQ%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A197%3A463)%0A%20%20%20%20at%20console.%3Canonymous%3E%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FRmsdmsn%2FDocInfo%2FDocInfo.aspx%3FFORM%3DIN%26L%3D0%26Docno%3D835196%26DocSrc%3D1%26AppID%3D1%26CabID%3D11601%26SubmtPar%3D0%26Mode%3D99%26Lfp%3DHome%26ViewNo%3D309%26PreveVal%3D14222%7CACq6LK3R0IqTv8PO3DBNlWYxXzhrDkWNqnps47q%2BSQQ%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A197%3A217)%0A%20%20%20%20at%20console.error%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FRmsdmsn%2FDocInfo%2FDocInfo.aspx%3FFORM%3DIN%26L%3D0%26Docno%3D835196%26DocSrc%3D1%26AppID%3D1%26CabID%3D11601%26SubmtPar%3D0%26Mode%3D99%26Lfp%3DHome%26ViewNo%3D309%26PreveVal%3D14222%7CACq6LK3R0IqTv8PO3DBNlWYxXzhrDkWNqnps47q%2BSQQ%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A64%3A215)%0A%20%20%20%20at%20https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FRmsdmsn%2FFileUpload%2FResources%2Fdynamsoft.webtwain.initiate.js%3F55%3A17%3A816599%0A%20%20%20%20at%20https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FRmsdmsn%2FDocInfo%2FDocInfo.aspx%3FFORM%3DIN%26L%3D0%26Docno%3D835196%26DocSrc%3D1%26AppID%3D1%26CabID%3D11601%26SubmtPar%3D0%26Mode%3D99%26Lfp%3DHome%26ViewNo%3D309%26PreveVal%3D14222%7CACq6LK3R0IqTv8PO3DBNlWYxXzhrDkWNqnps47q%2BSQQ%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A63%3A464  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: a.utils.toJSONString is not a function] from [10.12.10.249:null], appKey [EUM-AAB-AUC], pageUrl [https://tarasul1.swcc.gov.sa/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: a.utils.toJSONString is not a function
+ |	    at m.Xj (https://tarasul1.swcc.gov.sa/ECM7/Rmsdmsn/DocInfo/DocInfo.aspx?FORM=IN&L=0&Docno=835196&DocSrc=1&AppID=1&CabID=11601&SubmtPar=0&Mode=99&Lfp=Home&ViewNo=309&PreveVal=14222|ACq6LK3R0IqTv8PO3DBNlWYxXzhrDkWNqnps47q+SQQ=|Ovg2jyFD/HdfMltllI2GJQ==1:197:463)
+ |	    at console.<anonymous> (https://tarasul1.swcc.gov.sa/ECM7/Rmsdmsn/DocInfo/DocInfo.aspx?FORM=IN&L=0&Docno=835196&DocSrc=1&AppID=1&CabID=11601&SubmtPar=0&Mode=99&Lfp=Home&ViewNo=309&PreveVal=14222|ACq6LK3R0IqTv8PO3DBNlWYxXzhrDkWNqnps47q+SQQ=|Ovg2jyFD/HdfMltllI2GJQ==1:197:217)
+ |	    at console.error (https://tarasul1.swcc.gov.sa/ECM7/Rmsdmsn/DocInfo/DocInfo.aspx?FORM=IN&L=0&Docno=835196&DocSrc=1&AppID=1&CabID=11601&SubmtPar=0&Mode=99&Lfp=Home&ViewNo=309&PreveVal=14222|ACq6LK3R0IqTv8PO3DBNlWYxXzhrDkWNqnps47q+SQQ=|Ovg2jyFD/HdfMltllI2GJQ==1:64:215)
+ |	    at https://tarasul1.swcc.gov.sa/ECM7/Rmsdmsn/FileUpload/Resources/dynamsoft.webtwain.initiate.js?55:17:816599
+ |	    at https://tarasul1.swcc.gov.sa/ECM7/Rmsdmsn/DocInfo/DocInfo.aspx?FORM=IN&L=0&Docno=835196&DocSrc=1&AppID=1&CabID=11601&SubmtPar=0&Mode=99&Lfp=Home&ViewNo=309&PreveVal=14222|ACq6LK3R0IqTv8PO3DBNlWYxXzhrDkWNqnps47q+SQQ=|Ovg2jyFD/HdfMltllI2GJQ==1:63:464
+ +---------------------------------------------------------------------------------------
+
+17 Dec 2024 13:10:33.705 +0300  dw-232 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function&stack=TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function%0A%20%20%20%20at%20m.Xj%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A181%3A463)%0A%20%20%20%20at%20console.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A181%3A217)%0A%20%20%20%20at%20console.error%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20handleInjectError%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fnode_modules%2F.vite%2Fdeps%2F%40react-google-maps_api.js%3Fv%3D14a98913%3A877%3A15)%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A47%3A464  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: a.utils.toJSONString is not a function] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: a.utils.toJSONString is not a function
+ |	    at m.Xj (http://localhost:5173/AuditReportFE/adrum/adrum.js:181:463)
+ |	    at console.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:181:217)
+ |	    at console.error (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at handleInjectError (http://localhost:5173/AuditReportFE/node_modules/.vite/deps/@react-google-maps_api.js?v=14a98913:877:15)
+ |	    at http://localhost:5173/AuditReportFE/adrum/adrum.js:47:464
+ +---------------------------------------------------------------------------------------
+
+19 Dec 2024 09:07:29.560 +0300  dw-203 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function&stack=TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function%0A%20%20%20%20at%20m.Xj%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A181%3A463)%0A%20%20%20%20at%20console.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A181%3A217)%0A%20%20%20%20at%20console.error%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20handleInjectError%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fnode_modules%2F.vite%2Fdeps%2F%40react-google-maps_api.js%3Fv%3D14a98913%3A877%3A15)%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A47%3A464  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: a.utils.toJSONString is not a function] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: a.utils.toJSONString is not a function
+ |	    at m.Xj (http://localhost:5173/AuditReportFE/adrum/adrum.js:181:463)
+ |	    at console.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:181:217)
+ |	    at console.error (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at handleInjectError (http://localhost:5173/AuditReportFE/node_modules/.vite/deps/@react-google-maps_api.js?v=14a98913:877:15)
+ |	    at http://localhost:5173/AuditReportFE/adrum/adrum.js:47:464
+ +---------------------------------------------------------------------------------------
+
+19 Dec 2024 09:09:47.080 +0300  dw-231 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A405%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReportFE/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReportFE/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReportFE/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReportFE/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReportFE/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReportFE/@vite/client:405:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReportFE/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReportFE/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+19 Dec 2024 09:09:47.080 +0300  dw-191 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A401%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReportFE/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReportFE/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReportFE/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReportFE/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReportFE/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReportFE/@vite/client:401:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReportFE/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReportFE/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+19 Dec 2024 09:36:11.798 +0300  dw-204 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A401%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReportFE/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReportFE/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReportFE/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReportFE/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReportFE/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReportFE/@vite/client:401:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReportFE/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReportFE/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+19 Dec 2024 09:36:11.798 +0300  dw-197 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A405%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReportFE/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReportFE/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReportFE/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReportFE/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReportFE/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReportFE/@vite/client:405:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReportFE/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReportFE/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+19 Dec 2024 09:37:45.226 +0300  dw-220 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A401%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReportFE/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReportFE/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReportFE/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReportFE/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReportFE/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReportFE/@vite/client:401:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReportFE/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReportFE/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+19 Dec 2024 09:37:45.226 +0300  dw-239 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A405%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReportFE/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReportFE/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReportFE/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReportFE/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReportFE/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReportFE/@vite/client:405:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReportFE/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReportFE/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+19 Dec 2024 10:21:28.167 +0300  dw-193 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A405%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReportFE/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReportFE/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReportFE/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReportFE/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReportFE/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReportFE/@vite/client:405:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReportFE/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReportFE/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+19 Dec 2024 10:21:28.168 +0300  dw-232 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A401%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReportFE/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReportFE/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReportFE/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReportFE/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReportFE/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReportFE/@vite/client:401:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReportFE/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReportFE/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+19 Dec 2024 10:25:59.994 +0300  dw-235 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A401%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReportFE/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReportFE/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReportFE/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReportFE/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReportFE/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReportFE/@vite/client:401:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReportFE/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReportFE/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+19 Dec 2024 10:25:59.995 +0300  dw-201 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A405%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReportFE/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReportFE/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReportFE/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReportFE/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReportFE/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReportFE/@vite/client:405:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReportFE/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReportFE/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+22 Dec 2024 09:50:28.571 +0300  dw-206 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function&stack=TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function%0A%20%20%20%20at%20m.Xj%20(http%3A%2F%2Flocalhost%3A17292%2Fassets%2Fadrum%2Fadrum.js%3A181%3A463)%0A%20%20%20%20at%20console.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A17292%2Fassets%2Fadrum%2Fadrum.js%3A181%3A217)%0A%20%20%20%20at%20console.error%20(http%3A%2F%2Flocalhost%3A17292%2Fassets%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20Object.error%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A14525%3A24)%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A11008%3A18%0A%20%20%20%20at%20invokeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A10428%3A9)%0A%20%20%20%20at%20nodeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9815%3A11)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9055%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20nodeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9809%3A11)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9055%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocal  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: a.utils.toJSONString is not a function] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:17292/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: a.utils.toJSONString is not a function
+ |	    at m.Xj (http://localhost:17292/assets/adrum/adrum.js:181:463)
+ |	    at console.<anonymous> (http://localhost:17292/assets/adrum/adrum.js:181:217)
+ |	    at console.error (http://localhost:17292/assets/adrum/adrum.js:48:215)
+ |	    at Object.error (http://localhost:17292/Scripts/angular.js:14525:24)
+ |	    at http://localhost:17292/Scripts/angular.js:11008:18
+ |	    at invokeLinkFn (http://localhost:17292/Scripts/angular.js:10428:9)
+ |	    at nodeLinkFn (http://localhost:17292/Scripts/angular.js:9815:11)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9055:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at nodeLinkFn (http://localhost:17292/Scripts/angular.js:9809:11)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9055:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at compositeLinkFn (http://local
+ +---------------------------------------------------------------------------------------
+
+22 Dec 2024 09:52:31.302 +0300  dw-196 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A401%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReportFE/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReportFE/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReportFE/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReportFE/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReportFE/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReportFE/@vite/client:401:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReportFE/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReportFE/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+22 Dec 2024 09:52:31.303 +0300  dw-239 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A405%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReportFE/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReportFE/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReportFE/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReportFE/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReportFE/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReportFE/@vite/client:405:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReportFE/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReportFE/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReportFE/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+22 Dec 2024 10:00:25.207 +0300  dw-221 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function&stack=TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function%0A%20%20%20%20at%20m.Xj%20(http%3A%2F%2Flocalhost%3A17292%2Fassets%2Fadrum%2Fadrum.js%3A181%3A463)%0A%20%20%20%20at%20console.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A17292%2Fassets%2Fadrum%2Fadrum.js%3A181%3A217)%0A%20%20%20%20at%20console.error%20(http%3A%2F%2Flocalhost%3A17292%2Fassets%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20Object.error%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A14525%3A24)%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A11008%3A18%0A%20%20%20%20at%20invokeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A10428%3A9)%0A%20%20%20%20at%20nodeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9815%3A11)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9055%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20nodeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9809%3A11)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9055%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocal  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: a.utils.toJSONString is not a function] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:17292/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: a.utils.toJSONString is not a function
+ |	    at m.Xj (http://localhost:17292/assets/adrum/adrum.js:181:463)
+ |	    at console.<anonymous> (http://localhost:17292/assets/adrum/adrum.js:181:217)
+ |	    at console.error (http://localhost:17292/assets/adrum/adrum.js:48:215)
+ |	    at Object.error (http://localhost:17292/Scripts/angular.js:14525:24)
+ |	    at http://localhost:17292/Scripts/angular.js:11008:18
+ |	    at invokeLinkFn (http://localhost:17292/Scripts/angular.js:10428:9)
+ |	    at nodeLinkFn (http://localhost:17292/Scripts/angular.js:9815:11)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9055:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at nodeLinkFn (http://localhost:17292/Scripts/angular.js:9809:11)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9055:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at compositeLinkFn (http://local
+ +---------------------------------------------------------------------------------------
+
+22 Dec 2024 10:00:37.516 +0300  dw-214 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function&stack=TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function%0A%20%20%20%20at%20Function.Xj%20(http%3A%2F%2Flocalhost%3A17292%2Fassets%2Fadrum%2Fadrum.js%3A181%3A463)%0A%20%20%20%20at%20console.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A17292%2Fassets%2Fadrum%2Fadrum.js%3A181%3A217)%0A%20%20%20%20at%20console.error%20(http%3A%2F%2Flocalhost%3A17292%2Fassets%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20Object.error%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A14525%3A24)%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A11008%3A18%0A%20%20%20%20at%20invokeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A10428%3A9)%0A%20%20%20%20at%20nodeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9815%3A11)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9055%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20nodeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9809%3A11)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9055%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A%2F%2Flocalhost%3A17292%2FScripts%2Fangular.js%3A9058%3A13)%0A%20%20%20%20at%20compositeLinkFn%20(http%3A  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: a.utils.toJSONString is not a function] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:17292/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: a.utils.toJSONString is not a function
+ |	    at Function.Xj (http://localhost:17292/assets/adrum/adrum.js:181:463)
+ |	    at console.<anonymous> (http://localhost:17292/assets/adrum/adrum.js:181:217)
+ |	    at console.error (http://localhost:17292/assets/adrum/adrum.js:48:215)
+ |	    at Object.error (http://localhost:17292/Scripts/angular.js:14525:24)
+ |	    at http://localhost:17292/Scripts/angular.js:11008:18
+ |	    at invokeLinkFn (http://localhost:17292/Scripts/angular.js:10428:9)
+ |	    at nodeLinkFn (http://localhost:17292/Scripts/angular.js:9815:11)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9055:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at nodeLinkFn (http://localhost:17292/Scripts/angular.js:9809:11)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9055:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at compositeLinkFn (http://localhost:17292/Scripts/angular.js:9058:13)
+ |	    at compositeLinkFn (http:
+ +---------------------------------------------------------------------------------------
+
+22 Dec 2024 11:24:10.176 +0300  dw-191 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUC&msg=M22%20%7C%20%20%7C%20TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function&stack=TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function%0A%20%20%20%20at%20m.Xj%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FECMDMS%2FNavigator%2FHome.aspx%3FL%3D0%26CabId%3D11603%26PreveVal%3D8898%7CEBK9stxdSpakY9K69vkINv6RgG1vzNKIardIs4nRODM%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A199%3A463)%0A%20%20%20%20at%20console.%3Canonymous%3E%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FECMDMS%2FNavigator%2FHome.aspx%3FL%3D0%26CabId%3D11603%26PreveVal%3D8898%7CEBK9stxdSpakY9K69vkINv6RgG1vzNKIardIs4nRODM%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A199%3A217)%0A%20%20%20%20at%20console.error%20(https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FECMDMS%2FNavigator%2FHome.aspx%3FL%3D0%26CabId%3D11603%26PreveVal%3D8898%7CEBK9stxdSpakY9K69vkINv6RgG1vzNKIardIs4nRODM%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A66%3A215)%0A%20%20%20%20at%20https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FRMSDMSN%2FFileUpload%2FResources%2Fdynamsoft.webtwain.initiate.js%3F55%3A17%3A816599%0A%20%20%20%20at%20https%3A%2F%2Ftarasul1.swcc.gov.sa%2FECM7%2FECMDMS%2FNavigator%2FHome.aspx%3FL%3D0%26CabId%3D11603%26PreveVal%3D8898%7CEBK9stxdSpakY9K69vkINv6RgG1vzNKIardIs4nRODM%3D%7COvg2jyFD%2FHdfMltllI2GJQ%3D%3D1%3A65%3A464  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: a.utils.toJSONString is not a function] from [10.12.10.249:null], appKey [EUM-AAB-AUC], pageUrl [https://tarasul1.swcc.gov.sa/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: a.utils.toJSONString is not a function
+ |	    at m.Xj (https://tarasul1.swcc.gov.sa/ECM7/ECMDMS/Navigator/Home.aspx?L=0&CabId=11603&PreveVal=8898|EBK9stxdSpakY9K69vkINv6RgG1vzNKIardIs4nRODM=|Ovg2jyFD/HdfMltllI2GJQ==1:199:463)
+ |	    at console.<anonymous> (https://tarasul1.swcc.gov.sa/ECM7/ECMDMS/Navigator/Home.aspx?L=0&CabId=11603&PreveVal=8898|EBK9stxdSpakY9K69vkINv6RgG1vzNKIardIs4nRODM=|Ovg2jyFD/HdfMltllI2GJQ==1:199:217)
+ |	    at console.error (https://tarasul1.swcc.gov.sa/ECM7/ECMDMS/Navigator/Home.aspx?L=0&CabId=11603&PreveVal=8898|EBK9stxdSpakY9K69vkINv6RgG1vzNKIardIs4nRODM=|Ovg2jyFD/HdfMltllI2GJQ==1:66:215)
+ |	    at https://tarasul1.swcc.gov.sa/ECM7/RMSDMSN/FileUpload/Resources/dynamsoft.webtwain.initiate.js?55:17:816599
+ |	    at https://tarasul1.swcc.gov.sa/ECM7/ECMDMS/Navigator/Home.aspx?L=0&CabId=11603&PreveVal=8898|EBK9stxdSpakY9K69vkINv6RgG1vzNKIardIs4nRODM=|Ovg2jyFD/HdfMltllI2GJQ==1:65:464
+ +---------------------------------------------------------------------------------------
+
+24 Dec 2024 09:45:51.291 +0300  dw-589 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M1%20%7C%20beforeunload%20%7C%20%5Bobject%20Window%5D%20%7C%20TypeError%3A%20Cannot%20set%20properties%20of%20undefined%20(setting%20%27vct%27)&stack=TypeError%3A%20Cannot%20set%20properties%20of%20undefined%20(setting%20%27vct%27)%0A%20%20%20%20at%20e.navComplete%20(http%3A%2F%2Fapptest.swcc.gov.sa%2FUserDeptMng%2FScripts%2Fadrum%2Fadrum.js%3A109%3A359)%0A%20%20%20%20at%20f.sn%20(http%3A%2F%2Fapptest.swcc.gov.sa%2FUserDeptMng%2FScripts%2Fadrum%2Fadrum.js%3A127%3A181)%0A%20%20%20%20at%20n%20(http%3A%2F%2Fapptest.swcc.gov.sa%2FUserDeptMng%2FScripts%2Fadrum%2Fadrum.js%3A13%3A346)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M1 | beforeunload | [object Window] | TypeError: Cannot set properties of undefined (setting 'vct')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://apptest.swcc.gov.sa/UserDeptMng/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot set properties of undefined (setting 'vct')
+ |	    at e.navComplete (http://apptest.swcc.gov.sa/UserDeptMng/Scripts/adrum/adrum.js:109:359)
+ |	    at f.sn (http://apptest.swcc.gov.sa/UserDeptMng/Scripts/adrum/adrum.js:127:181)
+ |	    at n (http://apptest.swcc.gov.sa/UserDeptMng/Scripts/adrum/adrum.js:13:346)
+ +---------------------------------------------------------------------------------------
+
+26 Dec 2024 07:40:39.729 +0300  dw-1025 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function&stack=TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function%0A%20%20%20%20at%20m.Xj%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A181%3A463)%0A%20%20%20%20at%20console.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A181%3A217)%0A%20%20%20%20at%20console.error%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20handleInjectError%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fnode_modules%2F.vite%2Fdeps%2F%40react-google-maps_api.js%3Fv%3D14a98913%3A877%3A15)%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A5173%2FAuditReportFE%2Fadrum%2Fadrum.js%3A47%3A464  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: a.utils.toJSONString is not a function] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: a.utils.toJSONString is not a function
+ |	    at m.Xj (http://localhost:5173/AuditReportFE/adrum/adrum.js:181:463)
+ |	    at console.<anonymous> (http://localhost:5173/AuditReportFE/adrum/adrum.js:181:217)
+ |	    at console.error (http://localhost:5173/AuditReportFE/adrum/adrum.js:48:215)
+ |	    at handleInjectError (http://localhost:5173/AuditReportFE/node_modules/.vite/deps/@react-google-maps_api.js?v=14a98913:877:15)
+ |	    at http://localhost:5173/AuditReportFE/adrum/adrum.js:47:464
+ +---------------------------------------------------------------------------------------
+
+26 Dec 2024 10:47:58.381 +0300  dw-908 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUM&msg=M1%20%7C%20beforeunload%20%7C%20%5Bobject%20Window%5D%20%7C%20TypeError%3A%20Cannot%20set%20properties%20of%20undefined%20(setting%20%27vct%27)&stack=TypeError%3A%20Cannot%20set%20properties%20of%20undefined%20(setting%20%27vct%27)%0A%20%20%20%20at%20e.navComplete%20(https%3A%2F%2Fapp.swcc.gov.sa%2FUserDeptMng%2FScripts%2Fadrum%2Fadrum.js%3A109%3A359)%0A%20%20%20%20at%20f.sn%20(https%3A%2F%2Fapp.swcc.gov.sa%2FUserDeptMng%2FScripts%2Fadrum%2Fadrum.js%3A127%3A181)%0A%20%20%20%20at%20n%20(https%3A%2F%2Fapp.swcc.gov.sa%2FUserDeptMng%2FScripts%2Fadrum%2Fadrum.js%3A13%3A346)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M1 | beforeunload | [object Window] | TypeError: Cannot set properties of undefined (setting 'vct')] from [10.12.10.249:null], appKey [EUM-AAB-AUM], pageUrl [https://app.swcc.gov.sa/UserDeptMng/Account?Id=38497], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot set properties of undefined (setting 'vct')
+ |	    at e.navComplete (https://app.swcc.gov.sa/UserDeptMng/Scripts/adrum/adrum.js:109:359)
+ |	    at f.sn (https://app.swcc.gov.sa/UserDeptMng/Scripts/adrum/adrum.js:127:181)
+ |	    at n (https://app.swcc.gov.sa/UserDeptMng/Scripts/adrum/adrum.js:13:346)
+ +---------------------------------------------------------------------------------------
+
+31 Dec 2024 07:33:36.646 +0300  dw-1566 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUM&msg=M1%20%7C%20beforeunload%20%7C%20%5Bobject%20Window%5D%20%7C%20TypeError%3A%20Cannot%20set%20properties%20of%20undefined%20(setting%20%27vct%27)&stack=TypeError%3A%20Cannot%20set%20properties%20of%20undefined%20(setting%20%27vct%27)%0A%20%20%20%20at%20e.navComplete%20(https%3A%2F%2Fapp.swcc.gov.sa%2FUserDeptMng%2FScripts%2Fadrum%2Fadrum.js%3A109%3A359)%0A%20%20%20%20at%20f.sn%20(https%3A%2F%2Fapp.swcc.gov.sa%2FUserDeptMng%2FScripts%2Fadrum%2Fadrum.js%3A127%3A181)%0A%20%20%20%20at%20n%20(https%3A%2F%2Fapp.swcc.gov.sa%2FUserDeptMng%2FScripts%2Fadrum%2Fadrum.js%3A13%3A346)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M1 | beforeunload | [object Window] | TypeError: Cannot set properties of undefined (setting 'vct')] from [10.12.10.249:null], appKey [EUM-AAB-AUM], pageUrl [https://app.swcc.gov.sa/UserDeptMng/Tenant/TenantCoAdmins?tenantId=7], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot set properties of undefined (setting 'vct')
+ |	    at e.navComplete (https://app.swcc.gov.sa/UserDeptMng/Scripts/adrum/adrum.js:109:359)
+ |	    at f.sn (https://app.swcc.gov.sa/UserDeptMng/Scripts/adrum/adrum.js:127:181)
+ |	    at n (https://app.swcc.gov.sa/UserDeptMng/Scripts/adrum/adrum.js:13:346)
+ +---------------------------------------------------------------------------------------
+
+01 Jan 2025 14:57:33.233 +0300  dw-1673 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function&stack=TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function%0A%20%20%20%20at%20m.Xj%20(http%3A%2F%2Flocalhost%3A4173%2FAuditReport%2Fadrum%2Fadrum.js%3A181%3A463)%0A%20%20%20%20at%20console.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A4173%2FAuditReport%2Fadrum%2Fadrum.js%3A181%3A217)%0A%20%20%20%20at%20console.error%20(http%3A%2F%2Flocalhost%3A4173%2FAuditReport%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A4173%2FAuditReport%2Fassets%2Findex-eV4_zJZy.js%3A444%3A19%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A4173%2FAuditReport%2Fadrum%2Fadrum.js%3A47%3A464  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: a.utils.toJSONString is not a function] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:4173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: a.utils.toJSONString is not a function
+ |	    at m.Xj (http://localhost:4173/AuditReport/adrum/adrum.js:181:463)
+ |	    at console.<anonymous> (http://localhost:4173/AuditReport/adrum/adrum.js:181:217)
+ |	    at console.error (http://localhost:4173/AuditReport/adrum/adrum.js:48:215)
+ |	    at http://localhost:4173/AuditReport/assets/index-eV4_zJZy.js:444:19
+ |	    at http://localhost:4173/AuditReport/adrum/adrum.js:47:464
+ +---------------------------------------------------------------------------------------
+
+02 Jan 2025 11:45:50.449 +0300  dw-1716 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function&stack=TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function%0A%20%20%20%20at%20m.Xj%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A181%3A463)%0A%20%20%20%20at%20console.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A181%3A217)%0A%20%20%20%20at%20console.error%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20HMRClient.warnFailedUpdate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A174%3A19)%0A%20%20%20%20at%20HMRClient.fetchUpdate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A213%3A14)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: a.utils.toJSONString is not a function] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: a.utils.toJSONString is not a function
+ |	    at m.Xj (http://localhost:5173/AuditReport/adrum/adrum.js:181:463)
+ |	    at console.<anonymous> (http://localhost:5173/AuditReport/adrum/adrum.js:181:217)
+ |	    at console.error (http://localhost:5173/AuditReport/adrum/adrum.js:48:215)
+ |	    at HMRClient.warnFailedUpdate (http://localhost:5173/AuditReport/@vite/client:174:19)
+ |	    at HMRClient.fetchUpdate (http://localhost:5173/AuditReport/@vite/client:213:14)
+ +---------------------------------------------------------------------------------------
+
+02 Jan 2025 11:45:54.315 +0300  dw-1736 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function&stack=TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function%0A%20%20%20%20at%20m.Xj%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A181%3A463)%0A%20%20%20%20at%20console.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A181%3A217)%0A%20%20%20%20at%20console.error%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20HMRClient.warnFailedUpdate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A174%3A19)%0A%20%20%20%20at%20HMRClient.fetchUpdate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A213%3A14)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: a.utils.toJSONString is not a function] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: a.utils.toJSONString is not a function
+ |	    at m.Xj (http://localhost:5173/AuditReport/adrum/adrum.js:181:463)
+ |	    at console.<anonymous> (http://localhost:5173/AuditReport/adrum/adrum.js:181:217)
+ |	    at console.error (http://localhost:5173/AuditReport/adrum/adrum.js:48:215)
+ |	    at HMRClient.warnFailedUpdate (http://localhost:5173/AuditReport/@vite/client:174:19)
+ |	    at HMRClient.fetchUpdate (http://localhost:5173/AuditReport/@vite/client:213:14)
+ +---------------------------------------------------------------------------------------
+
+05 Jan 2025 11:46:20.891 +0300  dw-1856 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUM&msg=M1%20%7C%20beforeunload%20%7C%20%5Bobject%20Window%5D%20%7C%20TypeError%3A%20Cannot%20set%20properties%20of%20undefined%20(setting%20%27vct%27)&stack=TypeError%3A%20Cannot%20set%20properties%20of%20undefined%20(setting%20%27vct%27)%0A%20%20%20%20at%20e.navComplete%20(https%3A%2F%2Fapp.swcc.gov.sa%2FUserDeptMng%2FScripts%2Fadrum%2Fadrum.js%3A109%3A359)%0A%20%20%20%20at%20f.sn%20(https%3A%2F%2Fapp.swcc.gov.sa%2FUserDeptMng%2FScripts%2Fadrum%2Fadrum.js%3A127%3A181)%0A%20%20%20%20at%20n%20(https%3A%2F%2Fapp.swcc.gov.sa%2FUserDeptMng%2FScripts%2Fadrum%2Fadrum.js%3A13%3A346)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M1 | beforeunload | [object Window] | TypeError: Cannot set properties of undefined (setting 'vct')] from [10.12.10.249:null], appKey [EUM-AAB-AUM], pageUrl [https://app.swcc.gov.sa/UserDeptMng/Account], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot set properties of undefined (setting 'vct')
+ |	    at e.navComplete (https://app.swcc.gov.sa/UserDeptMng/Scripts/adrum/adrum.js:109:359)
+ |	    at f.sn (https://app.swcc.gov.sa/UserDeptMng/Scripts/adrum/adrum.js:127:181)
+ |	    at n (https://app.swcc.gov.sa/UserDeptMng/Scripts/adrum/adrum.js:13:346)
+ +---------------------------------------------------------------------------------------
+
+06 Jan 2025 08:43:28.506 +0300  dw-1787 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A401%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReport/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReport/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReport/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReport/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReport/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReport/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReport/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReport/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReport/@vite/client:401:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReport/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReport/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReport/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReport/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+06 Jan 2025 08:43:28.507 +0300  dw-1767 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A405%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReport/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReport/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReport/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReport/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReport/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReport/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReport/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReport/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReport/@vite/client:405:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReport/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReport/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReport/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReport/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+06 Jan 2025 12:38:27.655 +0300  dw-1856 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUW&msg=M22%20%7C%20%20%7C%20TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function&stack=TypeError%3A%20a.utils.toJSONString%20is%20not%20a%20function%0A%20%20%20%20at%20m.ak%20(https%3A%2F%2Focptest.swcc.gov.sa%2Fscripts%2Fardum%2Fadrum.js%3A185%3A193)%0A%20%20%20%20at%20console.%3Canonymous%3E%20(https%3A%2F%2Focptest.swcc.gov.sa%2Fscripts%2Fardum%2Fadrum.js%3A184%3A451)%0A%20%20%20%20at%20console.error%20(https%3A%2F%2Focptest.swcc.gov.sa%2Fscripts%2Fardum%2Fadrum.js%3A50%3A314)%0A%20%20%20%20at%20hs%20(https%3A%2F%2Focptest.swcc.gov.sa%2Fstatic%2Fjs%2Fmain.a1917a56.js%3A2%3A4234716)%0A%20%20%20%20at%20n.callback%20(https%3A%2F%2Focptest.swcc.gov.sa%2Fstatic%2Fjs%2Fmain.a1917a56.js%3A2%3A4234945)%0A%20%20%20%20at%20Fi%20(https%3A%2F%2Focptest.swcc.gov.sa%2Fstatic%2Fjs%2Fmain.a1917a56.js%3A2%3A4216359)%0A%20%20%20%20at%20bl%20(https%3A%2F%2Focptest.swcc.gov.sa%2Fstatic%2Fjs%2Fmain.a1917a56.js%3A2%3A4264270)%0A%20%20%20%20at%20xl%20(https%3A%2F%2Focptest.swcc.gov.sa%2Fstatic%2Fjs%2Fmain.a1917a56.js%3A2%3A4263703)%0A%20%20%20%20at%20yl%20(https%3A%2F%2Focptest.swcc.gov.sa%2Fstatic%2Fjs%2Fmain.a1917a56.js%3A2%3A4263239)%0A%20%20%20%20at%20https%3A%2F%2Focptest.swcc.gov.sa%2Fstatic%2Fjs%2Fmain.a1917a56.js%3A2%3A4275076%0A%20%20%20%20at%20wc%20(https%3A%2F%2Focptest.swcc.gov.sa%2Fstatic%2Fjs%2Fmain.a1917a56.js%3A2%3A4275591)%0A%20%20%20%20at%20lc%20(https%3A%2F%2Focptest.swcc.gov.sa%2Fstatic%2Fjs%2Fmain.a1917a56.js%3A2%3A4269310)%0A%20%20%20%20at%20Va%20(https%3A%2F%2Focptest.swcc.gov.sa%2Fstatic%2Fjs%2Fmain.a1917a56.js%3A2%3A4209746)%0A%20%20%20%20at%20uc%20(https%3A%2F%2Focptest.swcc.gov.sa%2Fstatic%2Fjs%2Fmain.a1917a56.js%3A2%3A4269614)%0A%20%20%20%20at%20https%3A%2F%2Focptest.swcc.gov.sa%2Fstatic%2Fjs%2Fmain.a1917a56.js%3A2%3A4287896%0A%20%20%20%20at%20eu%20(https%3A%2F%2Focptest.swcc.gov.sa%2Fstatic%2Fjs%2Fmain.a1917a56.js%3A2%3A4287928)%0A%20%20%20%20at%20t.render%20(https%3A%2F%2Focptest.swcc  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: a.utils.toJSONString is not a function] from [10.12.10.249:null], appKey [EUM-AAB-AUW], pageUrl [https://ocptest.swcc.gov.sa/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: a.utils.toJSONString is not a function
+ |	    at m.ak (https://ocptest.swcc.gov.sa/scripts/ardum/adrum.js:185:193)
+ |	    at console.<anonymous> (https://ocptest.swcc.gov.sa/scripts/ardum/adrum.js:184:451)
+ |	    at console.error (https://ocptest.swcc.gov.sa/scripts/ardum/adrum.js:50:314)
+ |	    at hs (https://ocptest.swcc.gov.sa/static/js/main.a1917a56.js:2:4234716)
+ |	    at n.callback (https://ocptest.swcc.gov.sa/static/js/main.a1917a56.js:2:4234945)
+ |	    at Fi (https://ocptest.swcc.gov.sa/static/js/main.a1917a56.js:2:4216359)
+ |	    at bl (https://ocptest.swcc.gov.sa/static/js/main.a1917a56.js:2:4264270)
+ |	    at xl (https://ocptest.swcc.gov.sa/static/js/main.a1917a56.js:2:4263703)
+ |	    at yl (https://ocptest.swcc.gov.sa/static/js/main.a1917a56.js:2:4263239)
+ |	    at https://ocptest.swcc.gov.sa/static/js/main.a1917a56.js:2:4275076
+ |	    at wc (https://ocptest.swcc.gov.sa/static/js/main.a1917a56.js:2:4275591)
+ |	    at lc (https://ocptest.swcc.gov.sa/static/js/main.a1917a56.js:2:4269310)
+ |	    at Va (https://ocptest.swcc.gov.sa/static/js/main.a1917a56.js:2:4209746)
+ |	    at uc (https://ocptest.swcc.gov.sa/static/js/main.a1917a56.js:2:4269614)
+ |	    at https://ocptest.swcc.gov.sa/static/js/main.a1917a56.js:2:4287896
+ |	    at eu (https://ocptest.swcc.gov.sa/static/js/main.a1917a56.js:2:4287928)
+ |	    at t.render (https://ocptest.swcc
+ +---------------------------------------------------------------------------------------
+
+08 Jan 2025 10:55:43.534 +0300  dw-1822 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A401%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReport/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReport/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReport/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReport/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReport/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReport/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReport/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReport/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReport/@vite/client:401:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReport/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReport/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReport/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReport/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
+08 Jan 2025 10:55:43.534 +0300  dw-1890 - GET /eumcollector/error.gif?version=1&appKey=EUM-AAB-AUH&msg=M22%20%7C%20%20%7C%20TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)&stack=TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLowerCase%27)%0A%20%20%20%20at%20e%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A65%3A491)%0A%20%20%20%20at%20Object.x%20%5Bas%20Im%5D%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A67%3A31)%0A%20%20%20%20at%20e.rm%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A101%3A173)%0A%20%20%20%20at%20e.Fe%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A98%3A413)%0A%20%20%20%20at%20e.Ob%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A97%3A182)%0A%20%20%20%20at%20HTMLElement.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A98%3A60)%0A%20%20%20%20at%20HTMLElement.append%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2Fadrum%2Fadrum.js%3A48%3A215)%0A%20%20%20%20at%20h%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A235%3A8)%0A%20%20%20%20at%20createTemplate%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A405%3A7)%0A%20%20%20%20at%20new%20ErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A423%3A27)%0A%20%20%20%20at%20createErrorOverlay%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A720%3A29)%0A%20%20%20%20at%20handleMessage%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A696%3A11)%0A%20%20%20%20at%20WebSocket.%3Canonymous%3E%20(http%3A%2F%2Flocalhost%3A5173%2FAuditReport%2F%40vite%2Fclient%3A546%3A5)  ClientError                INFO    
+ |	CLIENT_ERROR_BEACON, Got error [M22 |  | TypeError: Cannot read properties of undefined (reading 'toLowerCase')] from [10.12.10.249:null], appKey [EUM-AAB-AUH], pageUrl [http://localhost:5173/], userAgent [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36], call stack: 
+ |	TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+ |	    at e (http://localhost:5173/AuditReport/adrum/adrum.js:65:491)
+ |	    at Object.x [as Im] (http://localhost:5173/AuditReport/adrum/adrum.js:67:31)
+ |	    at e.rm (http://localhost:5173/AuditReport/adrum/adrum.js:101:173)
+ |	    at e.Fe (http://localhost:5173/AuditReport/adrum/adrum.js:98:413)
+ |	    at e.Ob (http://localhost:5173/AuditReport/adrum/adrum.js:97:182)
+ |	    at HTMLElement.<anonymous> (http://localhost:5173/AuditReport/adrum/adrum.js:98:60)
+ |	    at HTMLElement.append (http://localhost:5173/AuditReport/adrum/adrum.js:48:215)
+ |	    at h (http://localhost:5173/AuditReport/@vite/client:235:8)
+ |	    at createTemplate (http://localhost:5173/AuditReport/@vite/client:405:7)
+ |	    at new ErrorOverlay (http://localhost:5173/AuditReport/@vite/client:423:27)
+ |	    at createErrorOverlay (http://localhost:5173/AuditReport/@vite/client:720:29)
+ |	    at handleMessage (http://localhost:5173/AuditReport/@vite/client:696:11)
+ |	    at WebSocket.<anonymous> (http://localhost:5173/AuditReport/@vite/client:546:5)
+ +---------------------------------------------------------------------------------------
+
