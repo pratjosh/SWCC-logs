@@ -1,0 +1,748 @@
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 17:12:16,452  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59994 every 60000
+AP162APH06==> [extension-scheduler-pool-10] 29 Apr 2024 17:14:42,860  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 17:16:41,820  INFO ControllerTimeSkewHandler - Agent timestamp: 1714396601820; Controller timestamp: 1714396585360; Skew value=16460 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 17:17:16,451  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60009 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 29 Apr 2024 17:20:12,863  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 17:21:41,864  INFO ControllerTimeSkewHandler - Agent timestamp: 1714396901864; Controller timestamp: 1714396885391; Skew value=16473 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 17:22:16,476  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59997 every 60000
+AP162APH06==> [extension-scheduler-pool-8] 29 Apr 2024 17:25:12,869  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 17:26:41,898  INFO ControllerTimeSkewHandler - Agent timestamp: 1714397201898; Controller timestamp: 1714397185419; Skew value=16479 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 17:27:16,479  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60000 every 60000
+AP162APH06==> [extension-scheduler-pool-3] 29 Apr 2024 17:30:42,885  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 17:31:41,933  INFO ControllerTimeSkewHandler - Agent timestamp: 1714397501933; Controller timestamp: 1714397485448; Skew value=16485 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 17:32:16,485  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60000 every 60000
+AP162APH06==> [extension-scheduler-pool-9] 29 Apr 2024 17:35:42,903  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 17:36:41,982  INFO ControllerTimeSkewHandler - Agent timestamp: 1714397801982; Controller timestamp: 1714397785479; Skew value=16503 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 17:37:16,501  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60002 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 29 Apr 2024 17:41:12,894  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 17:41:42,016  INFO ControllerTimeSkewHandler - Agent timestamp: 1714398102016; Controller timestamp: 1714398085505; Skew value=16511 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 17:42:16,506  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60005 every 60000
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 17:46:42,053  INFO ControllerTimeSkewHandler - Agent timestamp: 1714398402053; Controller timestamp: 1714398385538; Skew value=16515 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-10] 29 Apr 2024 17:46:42,914  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 17:47:16,524  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59991 every 60000
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 17:51:42,101  INFO ControllerTimeSkewHandler - Agent timestamp: 1714398702101; Controller timestamp: 1714398685568; Skew value=16533 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-4] 29 Apr 2024 17:51:42,930  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 17:52:16,526  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60007 every 60000
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 17:56:42,146  INFO ControllerTimeSkewHandler - Agent timestamp: 1714399002146; Controller timestamp: 1714398985603; Skew value=16543 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-1] 29 Apr 2024 17:56:42,941  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 17:57:16,549  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59994 every 60000
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 18:01:42,182  INFO ControllerTimeSkewHandler - Agent timestamp: 1714399302182; Controller timestamp: 1714399285640; Skew value=16542 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-4] 29 Apr 2024 18:02:12,930  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 18:02:16,555  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59987 every 60000
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 18:06:42,208  INFO ControllerTimeSkewHandler - Agent timestamp: 1714399602208; Controller timestamp: 1714399585679; Skew value=16529 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 18:07:16,547  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59982 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 29 Apr 2024 18:07:42,922  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 18:11:42,234  INFO ControllerTimeSkewHandler - Agent timestamp: 1714399902234; Controller timestamp: 1714399885742; Skew value=16492 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 18:12:16,529  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59963 every 60000
+AP162APH06==> [extension-scheduler-pool-0] 29 Apr 2024 18:13:12,869  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 18:16:42,250  INFO ControllerTimeSkewHandler - Agent timestamp: 1714400202250; Controller timestamp: 1714400185770; Skew value=16480 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 18:17:16,501  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59979 every 60000
+AP162APH06==> [extension-scheduler-pool-8] 29 Apr 2024 18:18:12,858  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 18:21:42,274  INFO ControllerTimeSkewHandler - Agent timestamp: 1714400502274; Controller timestamp: 1714400485799; Skew value=16475 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 18:22:16,494  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59981 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 29 Apr 2024 18:23:42,876  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 18:26:42,325  INFO ControllerTimeSkewHandler - Agent timestamp: 1714400802325; Controller timestamp: 1714400785830; Skew value=16495 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 18:27:16,483  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60012 every 60000
+AP162APH06==> [extension-scheduler-pool-9] 29 Apr 2024 18:28:42,892  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 18:31:42,363  INFO ControllerTimeSkewHandler - Agent timestamp: 1714401102363; Controller timestamp: 1714401085859; Skew value=16504 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 18:32:16,505  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59999 every 60000
+AP162APH06==> [extension-scheduler-pool-8] 29 Apr 2024 18:34:12,881  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 18:36:42,397  INFO ControllerTimeSkewHandler - Agent timestamp: 1714401402397; Controller timestamp: 1714401385888; Skew value=16509 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 18:37:16,506  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60003 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 29 Apr 2024 18:39:42,897  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 18:41:42,433  INFO ControllerTimeSkewHandler - Agent timestamp: 1714401702433; Controller timestamp: 1714401685915; Skew value=16518 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 18:42:16,518  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60000 every 60000
+AP162APH06==> [extension-scheduler-pool-1] 29 Apr 2024 18:44:42,913  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 18:46:42,475  INFO ControllerTimeSkewHandler - Agent timestamp: 1714402002475; Controller timestamp: 1714401985946; Skew value=16529 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 18:47:16,525  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60004 every 60000
+AP162APH06==> [extension-scheduler-pool-8] 29 Apr 2024 18:50:12,903  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 18:51:42,511  INFO ControllerTimeSkewHandler - Agent timestamp: 1714402302511; Controller timestamp: 1714402285975; Skew value=16536 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 18:52:16,530  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60006 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 29 Apr 2024 18:55:42,920  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 18:56:42,542  INFO ControllerTimeSkewHandler - Agent timestamp: 1714402602542; Controller timestamp: 1714402586004; Skew value=16538 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 18:57:16,543  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59995 every 60000
+AP162APH06==> [extension-scheduler-pool-9] 29 Apr 2024 19:00:42,907  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 19:01:42,560  INFO ControllerTimeSkewHandler - Agent timestamp: 1714402902560; Controller timestamp: 1714402886044; Skew value=16516 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 19:02:16,545  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59971 every 60000
+AP162APH06==> [extension-scheduler-pool-4] 29 Apr 2024 19:05:42,902  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 19:06:42,593  INFO ControllerTimeSkewHandler - Agent timestamp: 1714403202593; Controller timestamp: 1714403186076; Skew value=16517 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 19:07:16,525  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59992 every 60000
+AP162APH06==> [extension-scheduler-pool-11] 29 Apr 2024 19:11:12,898  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 19:11:42,601  INFO ControllerTimeSkewHandler - Agent timestamp: 1714403502601; Controller timestamp: 1714403486083; Skew value=16518 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 19:12:16,522  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59996 every 60000
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 19:16:42,631  INFO ControllerTimeSkewHandler - Agent timestamp: 1714403802631; Controller timestamp: 1714403786122; Skew value=16509 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-7] 29 Apr 2024 19:16:42,891  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 19:17:16,532  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59977 every 60000
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 19:21:42,658  INFO ControllerTimeSkewHandler - Agent timestamp: 1714404102658; Controller timestamp: 1714404086153; Skew value=16505 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-11] 29 Apr 2024 19:21:42,886  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 19:22:16,511  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59994 every 60000
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 19:26:42,678  INFO ControllerTimeSkewHandler - Agent timestamp: 1714404402678; Controller timestamp: 1714404386169; Skew value=16509 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-2] 29 Apr 2024 19:26:42,885  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 19:27:16,508  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60001 every 60000
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 19:31:42,689  INFO ControllerTimeSkewHandler - Agent timestamp: 1714404702689; Controller timestamp: 1714404686174; Skew value=16515 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-2] 29 Apr 2024 19:32:12,890  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 19:32:16,515  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60000 every 60000
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 19:36:42,710  INFO ControllerTimeSkewHandler - Agent timestamp: 1714405002709; Controller timestamp: 1714404986179; Skew value=16530 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 19:37:16,526  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60004 every 60000
+AP162APH06==> [extension-scheduler-pool-6] 29 Apr 2024 19:37:42,902  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 19:41:42,723  INFO ControllerTimeSkewHandler - Agent timestamp: 1714405302723; Controller timestamp: 1714405286187; Skew value=16536 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 19:42:16,546  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59990 every 60000
+AP162APH06==> [extension-scheduler-pool-0] 29 Apr 2024 19:43:12,888  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 19:46:42,734  INFO ControllerTimeSkewHandler - Agent timestamp: 1714405602734; Controller timestamp: 1714405586194; Skew value=16540 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 19:47:16,543  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59997 every 60000
+AP162APH06==> [extension-scheduler-pool-11] 29 Apr 2024 19:48:42,908  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 19:51:42,758  INFO ControllerTimeSkewHandler - Agent timestamp: 1714405902758; Controller timestamp: 1714405886215; Skew value=16543 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 19:52:16,554  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59989 every 60000
+AP162APH06==> [extension-scheduler-pool-7] 29 Apr 2024 19:53:42,916  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 19:56:42,794  INFO ControllerTimeSkewHandler - Agent timestamp: 1714406202794; Controller timestamp: 1714406186244; Skew value=16550 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 19:57:16,544  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60006 every 60000
+AP162APH06==> [extension-scheduler-pool-6] 29 Apr 2024 19:59:12,919  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 20:01:42,826  INFO ControllerTimeSkewHandler - Agent timestamp: 1714406502826; Controller timestamp: 1714406486282; Skew value=16544 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 20:02:16,560  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59984 every 60000
+AP162APH06==> [extension-scheduler-pool-6] 29 Apr 2024 20:04:42,920  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 20:06:42,842  INFO ControllerTimeSkewHandler - Agent timestamp: 1714406802842; Controller timestamp: 1714406786311; Skew value=16531 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 20:07:16,557  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59974 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 29 Apr 2024 20:09:42,891  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 20:11:42,868  INFO ControllerTimeSkewHandler - Agent timestamp: 1714407102868; Controller timestamp: 1714407086357; Skew value=16511 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 20:12:16,532  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59979 every 60000
+AP162APH06==> [extension-scheduler-pool-3] 29 Apr 2024 20:15:12,878  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 20:16:42,892  INFO ControllerTimeSkewHandler - Agent timestamp: 1714407402892; Controller timestamp: 1714407386386; Skew value=16506 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 20:17:16,516  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59990 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 29 Apr 2024 20:20:42,872  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 20:21:42,919  INFO ControllerTimeSkewHandler - Agent timestamp: 1714407702919; Controller timestamp: 1714407686415; Skew value=16504 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 20:22:16,513  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59991 every 60000
+AP162APH06==> [extension-scheduler-pool-6] 29 Apr 2024 20:25:42,885  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 20:26:42,960  INFO ControllerTimeSkewHandler - Agent timestamp: 1714408002960; Controller timestamp: 1714407986445; Skew value=16515 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 20:27:16,509  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60006 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 29 Apr 2024 20:31:12,885  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 20:31:42,995  INFO ControllerTimeSkewHandler - Agent timestamp: 1714408302995; Controller timestamp: 1714408286474; Skew value=16521 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 20:32:16,527  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59994 every 60000
+AP162APH06==> [extension-scheduler-pool-0] 29 Apr 2024 20:36:42,886  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 20:36:43,027  INFO ControllerTimeSkewHandler - Agent timestamp: 1714408603027; Controller timestamp: 1714408586504; Skew value=16523 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 20:37:16,528  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59995 every 60000
+AP162APH06==> [extension-scheduler-pool-8] 29 Apr 2024 20:41:42,901  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 20:41:43,073  INFO ControllerTimeSkewHandler - Agent timestamp: 1714408903073; Controller timestamp: 1714408886533; Skew value=16540 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 20:42:16,527  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60013 every 60000
+AP162APH06==> [extension-scheduler-pool-4] 29 Apr 2024 20:46:42,913  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 20:46:43,116  INFO ControllerTimeSkewHandler - Agent timestamp: 1714409203116; Controller timestamp: 1714409186564; Skew value=16552 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 20:47:16,553  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59999 every 60000
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 20:51:43,151  INFO ControllerTimeSkewHandler - Agent timestamp: 1714409503151; Controller timestamp: 1714409486591; Skew value=16560 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-10] 29 Apr 2024 20:52:12,902  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 20:52:16,558  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60002 every 60000
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 20:56:43,189  INFO ControllerTimeSkewHandler - Agent timestamp: 1714409803189; Controller timestamp: 1714409786622; Skew value=16567 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-11] 29 Apr 2024 20:57:12,925  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 20:57:16,565  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60002 every 60000
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 21:01:43,229  INFO ControllerTimeSkewHandler - Agent timestamp: 1714410103229; Controller timestamp: 1714410086661; Skew value=16568 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 21:02:16,573  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59995 every 60000
+AP162APH06==> [extension-scheduler-pool-0] 29 Apr 2024 21:02:42,934  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 21:06:43,266  INFO ControllerTimeSkewHandler - Agent timestamp: 1714410403266; Controller timestamp: 1714410386691; Skew value=16575 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 21:07:16,579  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59996 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 29 Apr 2024 21:08:12,923  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 21:11:43,302  INFO ControllerTimeSkewHandler - Agent timestamp: 1714410703302; Controller timestamp: 1714410686721; Skew value=16581 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 21:12:16,584  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59997 every 60000
+AP162APH06==> [extension-scheduler-pool-3] 29 Apr 2024 21:13:12,927  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 21:16:43,317  INFO ControllerTimeSkewHandler - Agent timestamp: 1714411003317; Controller timestamp: 1714410986781; Skew value=16536 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 21:17:16,593  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59943 every 60000
+AP162APH06==> [extension-scheduler-pool-11] 29 Apr 2024 21:18:12,869  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 21:21:43,337  INFO ControllerTimeSkewHandler - Agent timestamp: 1714411303337; Controller timestamp: 1714411286826; Skew value=16511 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 21:22:16,538  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59973 every 60000
+AP162APH06==> [extension-scheduler-pool-7] 29 Apr 2024 21:23:42,862  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 21:26:43,357  INFO ControllerTimeSkewHandler - Agent timestamp: 1714411603357; Controller timestamp: 1714411586855; Skew value=16502 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 21:27:16,513  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59989 every 60000
+AP162APH06==> [extension-scheduler-pool-6] 29 Apr 2024 21:28:42,854  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 21:31:43,393  INFO ControllerTimeSkewHandler - Agent timestamp: 1714411903393; Controller timestamp: 1714411886885; Skew value=16508 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 21:32:16,520  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59988 every 60000
+AP162APH06==> [extension-scheduler-pool-10] 29 Apr 2024 21:33:42,870  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 21:36:43,439  INFO ControllerTimeSkewHandler - Agent timestamp: 1714412203439; Controller timestamp: 1714412186914; Skew value=16525 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 21:37:16,517  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60008 every 60000
+AP162APH06==> [extension-scheduler-pool-8] 29 Apr 2024 21:38:42,887  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 21:41:43,473  INFO ControllerTimeSkewHandler - Agent timestamp: 1714412503473; Controller timestamp: 1714412486944; Skew value=16529 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 21:42:16,537  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59992 every 60000
+AP162APH06==> [extension-scheduler-pool-9] 29 Apr 2024 21:44:12,865  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 21:46:43,506  INFO ControllerTimeSkewHandler - Agent timestamp: 1714412803506; Controller timestamp: 1714412786973; Skew value=16533 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 21:47:16,539  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59994 every 60000
+AP162APH06==> [extension-scheduler-pool-10] 29 Apr 2024 21:49:12,877  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 21:51:43,558  INFO ControllerTimeSkewHandler - Agent timestamp: 1714413103558; Controller timestamp: 1714413087002; Skew value=16556 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 21:52:16,546  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60010 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 29 Apr 2024 21:54:42,908  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 21:56:43,597  INFO ControllerTimeSkewHandler - Agent timestamp: 1714413403597; Controller timestamp: 1714413387031; Skew value=16566 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 21:57:16,567  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59999 every 60000
+AP162APH06==> [extension-scheduler-pool-9] 29 Apr 2024 21:59:42,915  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 22:01:43,633  INFO ControllerTimeSkewHandler - Agent timestamp: 1714413703633; Controller timestamp: 1714413687071; Skew value=16562 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 22:02:16,570  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59992 every 60000
+AP162APH06==> [extension-scheduler-pool-9] 29 Apr 2024 22:05:12,889  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 22:06:43,659  INFO ControllerTimeSkewHandler - Agent timestamp: 1714414003659; Controller timestamp: 1714413987118; Skew value=16541 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 22:07:16,569  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59972 every 60000
+AP162APH06==> [extension-scheduler-pool-7] 29 Apr 2024 22:10:12,860  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 22:11:43,682  INFO ControllerTimeSkewHandler - Agent timestamp: 1714414303682; Controller timestamp: 1714414287161; Skew value=16521 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 22:12:16,556  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59965 every 60000
+AP162APH06==> [extension-scheduler-pool-1] 29 Apr 2024 22:15:42,862  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 22:16:43,704  INFO ControllerTimeSkewHandler - Agent timestamp: 1714414603704; Controller timestamp: 1714414587190; Skew value=16514 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 22:17:16,534  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59980 every 60000
+AP162APH06==> [extension-scheduler-pool-1] 29 Apr 2024 22:20:29,937  INFO AwsTagsSupplier - Skip retrieving AWS tags. Server is either not on AWS or cannot connect to AWS services
+AP162APH06==> [extension-scheduler-pool-7] 29 Apr 2024 22:20:42,857  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 22:21:43,732  INFO ControllerTimeSkewHandler - Agent timestamp: 1714414903732; Controller timestamp: 1714414887220; Skew value=16512 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 22:22:16,533  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59979 every 60000
+AP162APH06==> [extension-scheduler-pool-7] 29 Apr 2024 22:26:12,857  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 22:26:43,780  INFO ControllerTimeSkewHandler - Agent timestamp: 1714415203780; Controller timestamp: 1714415187250; Skew value=16530 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 22:27:16,529  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60001 every 60000
+AP162APH06==> [extension-scheduler-pool-3] 29 Apr 2024 22:31:42,877  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 22:31:43,815  INFO ControllerTimeSkewHandler - Agent timestamp: 1714415503815; Controller timestamp: 1714415487280; Skew value=16535 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 22:32:16,534  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60001 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 29 Apr 2024 22:36:42,880  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 22:36:43,849  INFO ControllerTimeSkewHandler - Agent timestamp: 1714415803849; Controller timestamp: 1714415787311; Skew value=16538 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 22:37:16,539  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59999 every 60000
+AP162APH06==> [extension-scheduler-pool-11] 29 Apr 2024 22:41:42,893  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 22:41:43,893  INFO ControllerTimeSkewHandler - Agent timestamp: 1714416103893; Controller timestamp: 1714416087343; Skew value=16550 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 22:42:16,547  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60003 every 60000
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 22:46:43,927  INFO ControllerTimeSkewHandler - Agent timestamp: 1714416403927; Controller timestamp: 1714416387368; Skew value=16559 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-1] 29 Apr 2024 22:47:12,896  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 22:47:16,553  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60006 every 60000
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 22:51:43,962  INFO ControllerTimeSkewHandler - Agent timestamp: 1714416703962; Controller timestamp: 1714416687398; Skew value=16564 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-4] 29 Apr 2024 22:52:12,885  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 22:52:16,573  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59991 every 60000
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 22:56:44,002  INFO ControllerTimeSkewHandler - Agent timestamp: 1714417004002; Controller timestamp: 1714416987427; Skew value=16575 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 22:57:16,583  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59992 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 29 Apr 2024 22:57:42,913  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 23:01:44,053  INFO ControllerTimeSkewHandler - Agent timestamp: 1714417304053; Controller timestamp: 1714417287465; Skew value=16588 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 23:02:16,585  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60003 every 60000
+AP162APH06==> [extension-scheduler-pool-8] 29 Apr 2024 23:03:12,930  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 23:06:44,092  INFO ControllerTimeSkewHandler - Agent timestamp: 1714417604092; Controller timestamp: 1714417587493; Skew value=16599 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 23:07:16,592  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60007 every 60000
+AP162APH06==> [extension-scheduler-pool-3] 29 Apr 2024 23:08:42,938  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 23:11:44,129  INFO ControllerTimeSkewHandler - Agent timestamp: 1714417904129; Controller timestamp: 1714417887524; Skew value=16605 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 23:12:16,613  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59992 every 60000
+AP162APH06==> [extension-scheduler-pool-10] 29 Apr 2024 23:14:12,902  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 23:16:44,159  INFO ControllerTimeSkewHandler - Agent timestamp: 1714418204159; Controller timestamp: 1714418187599; Skew value=16560 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 23:17:16,610  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59950 every 60000
+AP162APH06==> [extension-scheduler-pool-1] 29 Apr 2024 23:19:12,865  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 23:21:44,185  INFO ControllerTimeSkewHandler - Agent timestamp: 1714418504185; Controller timestamp: 1714418487644; Skew value=16541 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 23:22:16,560  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59981 every 60000
+AP162APH06==> [extension-scheduler-pool-11] 29 Apr 2024 23:24:12,868  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 23:26:44,209  INFO ControllerTimeSkewHandler - Agent timestamp: 1714418804209; Controller timestamp: 1714418787675; Skew value=16534 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 23:27:16,550  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59984 every 60000
+AP162APH06==> [extension-scheduler-pool-4] 29 Apr 2024 23:29:42,861  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 23:31:44,245  INFO ControllerTimeSkewHandler - Agent timestamp: 1714419104245; Controller timestamp: 1714419087703; Skew value=16542 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 23:32:16,543  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59999 every 60000
+AP162APH06==> [extension-scheduler-pool-10] 29 Apr 2024 23:35:12,861  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 23:36:44,285  INFO ControllerTimeSkewHandler - Agent timestamp: 1714419404285; Controller timestamp: 1714419387734; Skew value=16551 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 23:37:16,550  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60001 every 60000
+AP162APH06==> [extension-scheduler-pool-4] 29 Apr 2024 23:40:12,880  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 23:41:44,320  INFO ControllerTimeSkewHandler - Agent timestamp: 1714419704320; Controller timestamp: 1714419687763; Skew value=16557 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 23:42:16,554  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60003 every 60000
+AP162APH06==> [extension-scheduler-pool-8] 29 Apr 2024 23:45:12,871  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 23:46:44,350  INFO ControllerTimeSkewHandler - Agent timestamp: 1714420004350; Controller timestamp: 1714419987792; Skew value=16558 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 23:47:16,571  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59987 every 60000
+AP162APH06==> [extension-scheduler-pool-1] 29 Apr 2024 23:50:42,896  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 23:51:44,396  INFO ControllerTimeSkewHandler - Agent timestamp: 1714420304396; Controller timestamp: 1714420287820; Skew value=16576 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 29 Apr 2024 23:52:16,571  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60005 every 60000
+AP162APH06==> [extension-scheduler-pool-3] 29 Apr 2024 23:56:12,903  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 29 Apr 2024 23:56:44,434  INFO ControllerTimeSkewHandler - Agent timestamp: 1714420604434; Controller timestamp: 1714420587850; Skew value=16584 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 29 Apr 2024 23:57:16,590  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59994 every 60000
+AP162APH06==> [extension-scheduler-pool-6] 30 Apr 2024 00:01:42,906  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 00:01:44,468  INFO ControllerTimeSkewHandler - Agent timestamp: 1714420904468; Controller timestamp: 1714420887890; Skew value=16578 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 00:02:16,594  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59984 every 60000
+AP162APH06==> [extension-scheduler-pool-1] 30 Apr 2024 00:06:42,882  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 00:06:44,492  INFO ControllerTimeSkewHandler - Agent timestamp: 1714421204492; Controller timestamp: 1714421187936; Skew value=16556 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 00:07:16,582  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59974 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 00:11:44,519  INFO ControllerTimeSkewHandler - Agent timestamp: 1714421504519; Controller timestamp: 1714421487979; Skew value=16540 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-6] 30 Apr 2024 00:12:12,847  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 00:12:16,566  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59974 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 00:16:44,545  INFO ControllerTimeSkewHandler - Agent timestamp: 1714421804545; Controller timestamp: 1714421788010; Skew value=16535 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 00:17:16,544  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59991 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 30 Apr 2024 00:17:42,857  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 00:21:44,575  INFO ControllerTimeSkewHandler - Agent timestamp: 1714422104575; Controller timestamp: 1714422088039; Skew value=16536 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 00:22:16,546  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59990 every 60000
+AP162APH06==> [extension-scheduler-pool-7] 30 Apr 2024 00:23:12,846  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 00:26:44,619  INFO ControllerTimeSkewHandler - Agent timestamp: 1714422404619; Controller timestamp: 1714422388070; Skew value=16549 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 00:27:16,541  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60008 every 60000
+AP162APH06==> [extension-scheduler-pool-7] 30 Apr 2024 00:28:12,870  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 00:31:44,653  INFO ControllerTimeSkewHandler - Agent timestamp: 1714422704653; Controller timestamp: 1714422688098; Skew value=16555 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 00:32:16,559  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59996 every 60000
+AP162APH06==> [extension-scheduler-pool-10] 30 Apr 2024 00:33:42,874  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 00:36:44,685  INFO ControllerTimeSkewHandler - Agent timestamp: 1714423004685; Controller timestamp: 1714422988128; Skew value=16557 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 00:37:16,560  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59997 every 60000
+AP162APH06==> [extension-scheduler-pool-4] 30 Apr 2024 00:39:12,880  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 00:41:44,735  INFO ControllerTimeSkewHandler - Agent timestamp: 1714423304735; Controller timestamp: 1714423288157; Skew value=16578 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 00:42:16,565  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60013 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 30 Apr 2024 00:44:12,898  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 00:46:44,778  INFO ControllerTimeSkewHandler - Agent timestamp: 1714423604778; Controller timestamp: 1714423588187; Skew value=16591 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 00:47:16,590  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60001 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 30 Apr 2024 00:49:42,906  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 00:51:44,813  INFO ControllerTimeSkewHandler - Agent timestamp: 1714423904813; Controller timestamp: 1714423888217; Skew value=16596 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 00:52:16,594  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60002 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 30 Apr 2024 00:55:12,897  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 00:56:44,849  INFO ControllerTimeSkewHandler - Agent timestamp: 1714424204849; Controller timestamp: 1714424188245; Skew value=16604 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 00:57:16,600  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60004 every 60000
+AP162APH06==> [extension-scheduler-pool-6] 30 Apr 2024 01:00:12,915  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 01:01:44,885  INFO ControllerTimeSkewHandler - Agent timestamp: 1714424504885; Controller timestamp: 1714424488282; Skew value=16603 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 01:02:16,619  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59984 every 60000
+AP162APH06==> [extension-scheduler-pool-3] 30 Apr 2024 01:05:12,920  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 01:06:44,919  INFO ControllerTimeSkewHandler - Agent timestamp: 1714424804919; Controller timestamp: 1714424788312; Skew value=16607 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 01:07:16,607  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60000 every 60000
+AP162APH06==> [extension-scheduler-pool-1] 30 Apr 2024 01:10:42,922  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 01:11:44,953  INFO ControllerTimeSkewHandler - Agent timestamp: 1714425104953; Controller timestamp: 1714425088342; Skew value=16611 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 01:12:16,607  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60004 every 60000
+AP162APH06==> [extension-scheduler-pool-0] 30 Apr 2024 01:16:12,884  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 01:16:44,974  INFO ControllerTimeSkewHandler - Agent timestamp: 1714425404974; Controller timestamp: 1714425388405; Skew value=16569 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 01:17:16,614  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59955 every 60000
+AP162APH06==> [extension-scheduler-pool-1] 30 Apr 2024 01:21:42,865  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 01:21:44,990  INFO ControllerTimeSkewHandler - Agent timestamp: 1714425704990; Controller timestamp: 1714425688433; Skew value=16557 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 01:22:16,582  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59975 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 01:26:45,014  INFO ControllerTimeSkewHandler - Agent timestamp: 1714426005014; Controller timestamp: 1714425988464; Skew value=16550 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-8] 30 Apr 2024 01:27:12,843  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 01:27:16,561  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59989 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 01:31:45,053  INFO ControllerTimeSkewHandler - Agent timestamp: 1714426305053; Controller timestamp: 1714426288492; Skew value=16561 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-7] 30 Apr 2024 01:32:12,869  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 01:32:16,559  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60002 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 01:36:45,092  INFO ControllerTimeSkewHandler - Agent timestamp: 1714426605092; Controller timestamp: 1714426588521; Skew value=16571 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 01:37:16,577  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59994 every 60000
+AP162APH06==> [extension-scheduler-pool-6] 30 Apr 2024 01:37:42,873  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 01:41:45,126  INFO ControllerTimeSkewHandler - Agent timestamp: 1714426905126; Controller timestamp: 1714426888551; Skew value=16575 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 01:42:16,579  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59996 every 60000
+AP162APH06==> [extension-scheduler-pool-11] 30 Apr 2024 01:42:42,876  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 01:46:45,159  INFO ControllerTimeSkewHandler - Agent timestamp: 1714427205159; Controller timestamp: 1714427188579; Skew value=16580 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 01:47:16,582  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59998 every 60000
+AP162APH06==> [extension-scheduler-pool-11] 30 Apr 2024 01:47:42,882  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 01:51:45,203  INFO ControllerTimeSkewHandler - Agent timestamp: 1714427505203; Controller timestamp: 1714427488609; Skew value=16594 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 01:52:16,593  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60001 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 30 Apr 2024 01:53:12,892  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 01:56:45,240  INFO ControllerTimeSkewHandler - Agent timestamp: 1714427805240; Controller timestamp: 1714427788638; Skew value=16602 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 01:57:16,599  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60003 every 60000
+AP162APH06==> [extension-scheduler-pool-6] 30 Apr 2024 01:58:42,898  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 02:01:45,273  INFO ControllerTimeSkewHandler - Agent timestamp: 1714428105273; Controller timestamp: 1714428088676; Skew value=16597 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 02:02:16,617  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59980 every 60000
+AP162APH06==> [extension-scheduler-pool-0] 30 Apr 2024 02:04:12,872  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 02:06:45,292  INFO ControllerTimeSkewHandler - Agent timestamp: 1714428405292; Controller timestamp: 1714428388720; Skew value=16572 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 02:07:16,603  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59969 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 30 Apr 2024 02:09:42,860  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 02:11:45,308  INFO ControllerTimeSkewHandler - Agent timestamp: 1714428705308; Controller timestamp: 1714428688751; Skew value=16557 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 02:12:16,588  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59969 every 60000
+AP162APH06==> [extension-scheduler-pool-0] 30 Apr 2024 02:15:12,833  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 02:16:45,332  INFO ControllerTimeSkewHandler - Agent timestamp: 1714429005332; Controller timestamp: 1714428988779; Skew value=16553 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 02:17:16,566  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59987 every 60000
+AP162APH06==> [extension-scheduler-pool-4] 30 Apr 2024 02:20:12,830  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 02:21:45,368  INFO ControllerTimeSkewHandler - Agent timestamp: 1714429305368; Controller timestamp: 1714429288811; Skew value=16557 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 02:22:16,573  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59984 every 60000
+AP162APH06==> [extension-scheduler-pool-4] 30 Apr 2024 02:25:42,862  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 02:26:45,410  INFO ControllerTimeSkewHandler - Agent timestamp: 1714429605410; Controller timestamp: 1714429588838; Skew value=16572 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 02:27:16,567  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60005 every 60000
+AP162APH06==> [extension-scheduler-pool-1] 30 Apr 2024 02:30:42,868  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 02:31:45,445  INFO ControllerTimeSkewHandler - Agent timestamp: 1714429905445; Controller timestamp: 1714429888868; Skew value=16577 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 02:32:16,585  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59992 every 60000
+AP162APH06==> [extension-scheduler-pool-8] 30 Apr 2024 02:36:12,854  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 02:36:45,479  INFO ControllerTimeSkewHandler - Agent timestamp: 1714430205479; Controller timestamp: 1714430188898; Skew value=16581 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 02:37:16,588  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59993 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 30 Apr 2024 02:41:42,881  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 02:41:45,522  INFO ControllerTimeSkewHandler - Agent timestamp: 1714430505522; Controller timestamp: 1714430488927; Skew value=16595 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 02:42:16,585  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60010 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 02:46:45,557  INFO ControllerTimeSkewHandler - Agent timestamp: 1714430805557; Controller timestamp: 1714430788955; Skew value=16602 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-7] 30 Apr 2024 02:47:12,871  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 02:47:16,605  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59997 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 02:51:45,593  INFO ControllerTimeSkewHandler - Agent timestamp: 1714431105593; Controller timestamp: 1714431088986; Skew value=16607 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 02:52:16,608  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59999 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 30 Apr 2024 02:52:42,889  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 02:56:45,632  INFO ControllerTimeSkewHandler - Agent timestamp: 1714431405632; Controller timestamp: 1714431389014; Skew value=16618 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 02:57:16,620  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59998 every 60000
+AP162APH06==> [extension-scheduler-pool-1] 30 Apr 2024 02:58:12,886  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 03:01:45,676  INFO ControllerTimeSkewHandler - Agent timestamp: 1714431705676; Controller timestamp: 1714431689054; Skew value=16622 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 03:02:16,628  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59994 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 30 Apr 2024 03:03:12,910  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 03:06:45,711  INFO ControllerTimeSkewHandler - Agent timestamp: 1714432005711; Controller timestamp: 1714431989083; Skew value=16628 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 03:07:16,633  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59995 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 30 Apr 2024 03:08:42,916  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 03:11:45,744  INFO ControllerTimeSkewHandler - Agent timestamp: 1714432305744; Controller timestamp: 1714432289112; Skew value=16632 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 03:12:16,643  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59989 every 60000
+AP162APH06==> [extension-scheduler-pool-10] 30 Apr 2024 03:13:42,892  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 03:16:45,761  INFO ControllerTimeSkewHandler - Agent timestamp: 1714432605761; Controller timestamp: 1714432589173; Skew value=16588 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 03:17:16,632  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59956 every 60000
+AP162APH06==> [extension-scheduler-pool-7] 30 Apr 2024 03:19:12,844  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 03:21:45,790  INFO ControllerTimeSkewHandler - Agent timestamp: 1714432905790; Controller timestamp: 1714432889217; Skew value=16573 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 03:22:16,603  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59970 every 60000
+AP162APH06==> [extension-scheduler-pool-7] 30 Apr 2024 03:24:12,835  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 03:26:45,815  INFO ControllerTimeSkewHandler - Agent timestamp: 1714433205815; Controller timestamp: 1714433189248; Skew value=16567 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 03:27:16,579  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59988 every 60000
+AP162APH06==> [extension-scheduler-pool-0] 30 Apr 2024 03:29:12,832  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 03:31:45,855  INFO ControllerTimeSkewHandler - Agent timestamp: 1714433505855; Controller timestamp: 1714433489277; Skew value=16578 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 03:32:16,575  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60003 every 60000
+AP162APH06==> [extension-scheduler-pool-7] 30 Apr 2024 03:34:12,845  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 03:36:45,895  INFO ControllerTimeSkewHandler - Agent timestamp: 1714433805895; Controller timestamp: 1714433789307; Skew value=16588 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 03:37:16,581  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60007 every 60000
+AP162APH06==> [extension-scheduler-pool-8] 30 Apr 2024 03:39:42,863  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 03:41:45,943  INFO ControllerTimeSkewHandler - Agent timestamp: 1714434105943; Controller timestamp: 1714434089353; Skew value=16590 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 03:42:16,599  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59991 every 60000
+AP162APH06==> [extension-scheduler-pool-10] 30 Apr 2024 03:44:42,864  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 03:46:45,978  INFO ControllerTimeSkewHandler - Agent timestamp: 1714434405978; Controller timestamp: 1714434389380; Skew value=16598 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 03:47:16,605  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59993 every 60000
+AP162APH06==> [extension-scheduler-pool-0] 30 Apr 2024 03:50:12,870  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 03:51:46,023  INFO ControllerTimeSkewHandler - Agent timestamp: 1714434706023; Controller timestamp: 1714434689410; Skew value=16613 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 03:52:16,602  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60011 every 60000
+AP162APH06==> [extension-scheduler-pool-0] 30 Apr 2024 03:55:42,888  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 03:56:46,059  INFO ControllerTimeSkewHandler - Agent timestamp: 1714435006059; Controller timestamp: 1714434989439; Skew value=16620 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 03:57:16,623  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59997 every 60000
+AP162APH06==> [extension-scheduler-pool-10] 30 Apr 2024 04:01:12,889  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 04:01:46,092  INFO ControllerTimeSkewHandler - Agent timestamp: 1714435306092; Controller timestamp: 1714435289480; Skew value=16612 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 04:02:16,624  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59988 every 60000
+AP162APH06==> [extension-scheduler-pool-8] 30 Apr 2024 04:06:12,857  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 04:06:46,120  INFO ControllerTimeSkewHandler - Agent timestamp: 1714435606120; Controller timestamp: 1714435589541; Skew value=16579 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 04:07:16,616  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59963 every 60000
+AP162APH06==> [extension-scheduler-pool-11] 30 Apr 2024 04:11:42,837  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 04:11:46,149  INFO ControllerTimeSkewHandler - Agent timestamp: 1714435906149; Controller timestamp: 1714435889587; Skew value=16562 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 04:12:16,585  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59977 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 04:16:46,172  INFO ControllerTimeSkewHandler - Agent timestamp: 1714436206172; Controller timestamp: 1714436189616; Skew value=16556 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-6] 30 Apr 2024 04:17:12,811  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 04:17:16,577  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59979 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 30 Apr 2024 04:20:29,956  INFO AwsTagsSupplier - Skip retrieving AWS tags. Server is either not on AWS or cannot connect to AWS services
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 04:21:46,206  INFO ControllerTimeSkewHandler - Agent timestamp: 1714436506206; Controller timestamp: 1714436489645; Skew value=16561 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 04:22:16,565  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59996 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 30 Apr 2024 04:22:42,831  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 04:26:46,245  INFO ControllerTimeSkewHandler - Agent timestamp: 1714436806245; Controller timestamp: 1714436789679; Skew value=16566 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 04:27:16,572  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59994 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 30 Apr 2024 04:27:42,835  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 04:31:46,272  INFO ControllerTimeSkewHandler - Agent timestamp: 1714437106272; Controller timestamp: 1714437089703; Skew value=16569 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 04:32:16,569  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60000 every 60000
+AP162APH06==> [extension-scheduler-pool-4] 30 Apr 2024 04:33:12,828  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 04:36:46,302  INFO ControllerTimeSkewHandler - Agent timestamp: 1714437406302; Controller timestamp: 1714437389733; Skew value=16569 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-2] 30 Apr 2024 04:38:42,845  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 04:41:46,356  INFO ControllerTimeSkewHandler - Agent timestamp: 1714437706356; Controller timestamp: 1714437689762; Skew value=16594 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 04:42:16,577  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60017 every 60000
+AP162APH06==> [extension-scheduler-pool-4] 30 Apr 2024 04:43:42,861  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 04:46:46,396  INFO ControllerTimeSkewHandler - Agent timestamp: 1714438006396; Controller timestamp: 1714437989792; Skew value=16604 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 04:47:16,599  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60005 every 60000
+AP162APH06==> [extension-scheduler-pool-6] 30 Apr 2024 04:49:12,851  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 04:51:46,431  INFO ControllerTimeSkewHandler - Agent timestamp: 1714438306431; Controller timestamp: 1714438289822; Skew value=16609 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 04:52:16,618  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59991 every 60000
+AP162APH06==> [extension-scheduler-pool-7] 30 Apr 2024 04:54:12,853  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 04:56:46,468  INFO ControllerTimeSkewHandler - Agent timestamp: 1714438606468; Controller timestamp: 1714438589850; Skew value=16618 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 04:57:16,626  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59992 every 60000
+AP162APH06==> [extension-scheduler-pool-11] 30 Apr 2024 04:59:12,879  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 05:01:46,507  INFO ControllerTimeSkewHandler - Agent timestamp: 1714438906507; Controller timestamp: 1714438889889; Skew value=16618 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-3] 30 Apr 2024 05:04:42,885  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 05:06:46,544  INFO ControllerTimeSkewHandler - Agent timestamp: 1714439206544; Controller timestamp: 1714439189920; Skew value=16624 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 05:07:16,620  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60004 every 60000
+AP162APH06==> [extension-scheduler-pool-9] 30 Apr 2024 05:09:42,886  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 05:11:46,566  INFO ControllerTimeSkewHandler - Agent timestamp: 1714439506566; Controller timestamp: 1714439489949; Skew value=16617 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 05:12:16,637  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59980 every 60000
+AP162APH06==> [extension-scheduler-pool-11] 30 Apr 2024 05:14:42,854  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 05:16:46,593  INFO ControllerTimeSkewHandler - Agent timestamp: 1714439806593; Controller timestamp: 1714439790008; Skew value=16585 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 05:17:16,623  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59962 every 60000
+AP162APH06==> [extension-scheduler-pool-10] 30 Apr 2024 05:19:42,836  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 05:21:46,613  INFO ControllerTimeSkewHandler - Agent timestamp: 1714440106613; Controller timestamp: 1714440090038; Skew value=16575 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 05:22:16,596  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59979 every 60000
+AP162APH06==> [extension-scheduler-pool-6] 30 Apr 2024 05:25:12,810  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 05:26:46,638  INFO ControllerTimeSkewHandler - Agent timestamp: 1714440406638; Controller timestamp: 1714440390069; Skew value=16569 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 05:27:16,589  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59980 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 30 Apr 2024 05:30:12,820  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 05:31:46,684  INFO ControllerTimeSkewHandler - Agent timestamp: 1714440706684; Controller timestamp: 1714440690094; Skew value=16590 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 05:32:16,578  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60012 every 60000
+AP162APH06==> [extension-scheduler-pool-7] 30 Apr 2024 05:35:42,851  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 05:36:46,727  INFO ControllerTimeSkewHandler - Agent timestamp: 1714441006727; Controller timestamp: 1714440990126; Skew value=16601 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 05:37:16,603  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59998 every 60000
+AP162APH06==> [extension-scheduler-pool-9] 30 Apr 2024 05:40:42,855  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 05:41:46,780  INFO ControllerTimeSkewHandler - Agent timestamp: 1714441306780; Controller timestamp: 1714441290173; Skew value=16607 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 05:42:16,606  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60001 every 60000
+AP162APH06==> [extension-scheduler-pool-7] 30 Apr 2024 05:45:42,860  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 05:46:46,817  INFO ControllerTimeSkewHandler - Agent timestamp: 1714441606817; Controller timestamp: 1714441590203; Skew value=16614 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 05:47:16,613  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60001 every 60000
+AP162APH06==> [extension-scheduler-pool-6] 30 Apr 2024 05:51:12,853  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 05:51:46,852  INFO ControllerTimeSkewHandler - Agent timestamp: 1714441906852; Controller timestamp: 1714441890229; Skew value=16623 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 05:52:16,620  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60003 every 60000
+AP162APH06==> [extension-scheduler-pool-9] 30 Apr 2024 05:56:42,873  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 05:56:46,890  INFO ControllerTimeSkewHandler - Agent timestamp: 1714442206890; Controller timestamp: 1714442190260; Skew value=16630 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 05:57:16,639  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59991 every 60000
+AP162APH06==> [extension-scheduler-pool-0] 30 Apr 2024 06:01:42,873  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 06:01:46,922  INFO ControllerTimeSkewHandler - Agent timestamp: 1714442506922; Controller timestamp: 1714442490300; Skew value=16622 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 06:02:16,639  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59983 every 60000
+AP162APH06==> [extension-scheduler-pool-4] 30 Apr 2024 06:06:42,849  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 06:06:46,942  INFO ControllerTimeSkewHandler - Agent timestamp: 1714442806942; Controller timestamp: 1714442790344; Skew value=16598 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 06:07:16,628  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59970 every 60000
+AP162APH06==> [extension-scheduler-pool-7] 30 Apr 2024 06:11:42,838  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 06:11:46,963  INFO ControllerTimeSkewHandler - Agent timestamp: 1714443106963; Controller timestamp: 1714443090374; Skew value=16589 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 06:12:16,603  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59986 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 06:16:46,989  INFO ControllerTimeSkewHandler - Agent timestamp: 1714443406989; Controller timestamp: 1714443390401; Skew value=16588 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-2] 30 Apr 2024 06:17:12,819  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 06:17:16,600  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59988 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 06:21:47,027  INFO ControllerTimeSkewHandler - Agent timestamp: 1714443707027; Controller timestamp: 1714443690433; Skew value=16594 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 06:22:16,605  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59989 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 30 Apr 2024 06:22:42,841  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 06:26:47,064  INFO ControllerTimeSkewHandler - Agent timestamp: 1714444007064; Controller timestamp: 1714443990461; Skew value=16603 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 06:27:16,596  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60007 every 60000
+AP162APH06==> [extension-scheduler-pool-6] 30 Apr 2024 06:27:42,846  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 06:31:47,098  INFO ControllerTimeSkewHandler - Agent timestamp: 1714444307098; Controller timestamp: 1714444290491; Skew value=16607 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 06:32:16,615  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59992 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 30 Apr 2024 06:33:12,834  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 06:36:47,132  INFO ControllerTimeSkewHandler - Agent timestamp: 1714444607132; Controller timestamp: 1714444590522; Skew value=16610 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 06:37:16,617  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59993 every 60000
+AP162APH06==> [extension-scheduler-pool-10] 30 Apr 2024 06:38:12,841  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 06:41:47,178  INFO ControllerTimeSkewHandler - Agent timestamp: 1714444907178; Controller timestamp: 1714444890551; Skew value=16627 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 06:42:16,617  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60010 every 60000
+AP162APH06==> [extension-scheduler-pool-7] 30 Apr 2024 06:43:42,867  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 06:46:47,215  INFO ControllerTimeSkewHandler - Agent timestamp: 1714445207215; Controller timestamp: 1714445190580; Skew value=16635 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 06:47:16,637  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59998 every 60000
+AP162APH06==> [extension-scheduler-pool-3] 30 Apr 2024 06:48:42,874  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 06:51:47,249  INFO ControllerTimeSkewHandler - Agent timestamp: 1714445507249; Controller timestamp: 1714445490609; Skew value=16640 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 06:52:16,640  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60000 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 30 Apr 2024 06:54:12,876  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 06:56:47,285  INFO ControllerTimeSkewHandler - Agent timestamp: 1714445807285; Controller timestamp: 1714445790639; Skew value=16646 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 06:57:16,645  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60001 every 60000
+AP162APH06==> [extension-scheduler-pool-1] 30 Apr 2024 06:59:42,882  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 07:01:47,322  INFO ControllerTimeSkewHandler - Agent timestamp: 1714446107322; Controller timestamp: 1714446090679; Skew value=16643 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 07:02:16,650  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59993 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 30 Apr 2024 07:04:42,888  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 07:06:47,358  INFO ControllerTimeSkewHandler - Agent timestamp: 1714446407358; Controller timestamp: 1714446390708; Skew value=16650 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 07:07:16,653  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59997 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 30 Apr 2024 07:10:12,875  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 07:11:47,375  INFO ControllerTimeSkewHandler - Agent timestamp: 1714446707375; Controller timestamp: 1714446690737; Skew value=16638 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 07:12:16,650  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59988 every 60000
+AP162APH06==> [extension-scheduler-pool-4] 30 Apr 2024 07:15:42,845  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 07:16:47,405  INFO ControllerTimeSkewHandler - Agent timestamp: 1714447007405; Controller timestamp: 1714446990797; Skew value=16608 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 07:17:16,638  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59970 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 30 Apr 2024 07:20:42,831  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 07:21:47,427  INFO ControllerTimeSkewHandler - Agent timestamp: 1714447307427; Controller timestamp: 1714447290829; Skew value=16598 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 07:22:16,609  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59989 every 60000
+AP162APH06==> [extension-scheduler-pool-9] 30 Apr 2024 07:25:42,825  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 07:26:47,449  INFO ControllerTimeSkewHandler - Agent timestamp: 1714447607449; Controller timestamp: 1714447590856; Skew value=16593 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 07:27:16,604  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59989 every 60000
+AP162APH06==> [extension-scheduler-pool-9] 30 Apr 2024 07:30:42,841  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 07:31:47,501  INFO ControllerTimeSkewHandler - Agent timestamp: 1714447907501; Controller timestamp: 1714447890886; Skew value=16615 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 07:32:16,597  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60018 every 60000
+AP162APH06==> [extension-scheduler-pool-6] 30 Apr 2024 07:35:42,854  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 07:36:47,544  INFO ControllerTimeSkewHandler - Agent timestamp: 1714448207544; Controller timestamp: 1714448190913; Skew value=16631 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 07:37:16,620  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60011 every 60000
+AP162APH06==> [extension-scheduler-pool-9] 30 Apr 2024 07:41:12,856  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 07:41:47,555  INFO ControllerTimeSkewHandler - Agent timestamp: 1714448507555; Controller timestamp: 1714448490918; Skew value=16637 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 07:42:16,638  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59999 every 60000
+AP162APH06==> [extension-scheduler-pool-7] 30 Apr 2024 07:46:42,863  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 07:46:47,565  INFO ControllerTimeSkewHandler - Agent timestamp: 1714448807565; Controller timestamp: 1714448790925; Skew value=16640 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 07:47:16,645  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59995 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 07:51:47,599  INFO ControllerTimeSkewHandler - Agent timestamp: 1714449107599; Controller timestamp: 1714449090952; Skew value=16647 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-1] 30 Apr 2024 07:52:12,854  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 07:52:16,651  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59996 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 07:56:47,635  INFO ControllerTimeSkewHandler - Agent timestamp: 1714449407635; Controller timestamp: 1714449390982; Skew value=16653 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-10] 30 Apr 2024 07:57:12,856  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 07:57:16,653  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60000 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 08:01:47,666  INFO ControllerTimeSkewHandler - Agent timestamp: 1714449707666; Controller timestamp: 1714449691018; Skew value=16648 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 08:02:16,663  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59985 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 30 Apr 2024 08:02:42,861  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 08:06:47,689  INFO ControllerTimeSkewHandler - Agent timestamp: 1714450007689; Controller timestamp: 1714449991079; Skew value=16610 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 08:07:16,659  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59951 every 60000
+AP162APH06==> [extension-scheduler-pool-7] 30 Apr 2024 08:07:42,832  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 08:11:47,707  INFO ControllerTimeSkewHandler - Agent timestamp: 1714450307707; Controller timestamp: 1714450291108; Skew value=16599 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 08:12:16,615  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59984 every 60000
+AP162APH06==> [extension-scheduler-pool-1] 30 Apr 2024 08:13:12,801  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 08:16:47,731  INFO ControllerTimeSkewHandler - Agent timestamp: 1714450607731; Controller timestamp: 1714450591136; Skew value=16595 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 08:17:16,610  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59985 every 60000
+AP162APH06==> [extension-scheduler-pool-1] 30 Apr 2024 08:18:12,813  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 08:21:47,774  INFO ControllerTimeSkewHandler - Agent timestamp: 1714450907774; Controller timestamp: 1714450891168; Skew value=16606 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 08:22:16,607  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59999 every 60000
+AP162APH06==> [extension-scheduler-pool-10] 30 Apr 2024 08:23:12,820  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 08:26:47,813  INFO ControllerTimeSkewHandler - Agent timestamp: 1714451207813; Controller timestamp: 1714451191199; Skew value=16614 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 08:27:16,612  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60002 every 60000
+AP162APH06==> [extension-scheduler-pool-8] 30 Apr 2024 08:28:42,830  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 08:31:47,843  INFO ControllerTimeSkewHandler - Agent timestamp: 1714451507843; Controller timestamp: 1714451491225; Skew value=16618 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 08:32:16,628  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59990 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 30 Apr 2024 08:34:12,817  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 08:36:47,881  INFO ControllerTimeSkewHandler - Agent timestamp: 1714451807881; Controller timestamp: 1714451791257; Skew value=16624 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 08:37:16,631  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59993 every 60000
+AP162APH06==> [extension-scheduler-pool-4] 30 Apr 2024 08:39:12,843  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 08:41:47,924  INFO ControllerTimeSkewHandler - Agent timestamp: 1714452107924; Controller timestamp: 1714452091287; Skew value=16637 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 08:42:16,629  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60008 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 30 Apr 2024 08:44:12,838  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 08:46:47,958  INFO ControllerTimeSkewHandler - Agent timestamp: 1714452407958; Controller timestamp: 1714452391315; Skew value=16643 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 08:47:16,649  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59994 every 60000
+AP162APH06==> [extension-scheduler-pool-0] 30 Apr 2024 08:49:42,854  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 08:51:47,991  INFO ControllerTimeSkewHandler - Agent timestamp: 1714452707991; Controller timestamp: 1714452691344; Skew value=16647 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 08:52:16,651  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59996 every 60000
+AP162APH06==> [extension-scheduler-pool-6] 30 Apr 2024 08:55:12,851  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 08:56:48,040  INFO ControllerTimeSkewHandler - Agent timestamp: 1714453008040; Controller timestamp: 1714452991371; Skew value=16669 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 08:57:16,656  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60013 every 60000
+AP162APH06==> [extension-scheduler-pool-4] 30 Apr 2024 09:00:12,865  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 09:01:48,082  INFO ControllerTimeSkewHandler - Agent timestamp: 1714453308082; Controller timestamp: 1714453291407; Skew value=16675 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 09:02:16,681  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59994 every 60000
+AP162APH06==> [extension-scheduler-pool-0] 30 Apr 2024 09:05:12,872  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 09:06:48,119  INFO ControllerTimeSkewHandler - Agent timestamp: 1714453608119; Controller timestamp: 1714453591437; Skew value=16682 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 09:07:16,687  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59995 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 30 Apr 2024 09:10:12,873  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 09:11:48,143  INFO ControllerTimeSkewHandler - Agent timestamp: 1714453908143; Controller timestamp: 1714453891482; Skew value=16661 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 09:12:16,688  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59973 every 60000
+AP162APH06==> [extension-scheduler-pool-9] 30 Apr 2024 09:15:42,834  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 09:16:48,170  INFO ControllerTimeSkewHandler - Agent timestamp: 1714454208170; Controller timestamp: 1714454191543; Skew value=16627 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 09:17:16,672  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59955 every 60000
+AP162APH06==> [extension-scheduler-pool-7] 30 Apr 2024 09:20:42,818  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 09:21:48,192  INFO ControllerTimeSkewHandler - Agent timestamp: 1714454508192; Controller timestamp: 1714454491577; Skew value=16615 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 09:22:16,628  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59987 every 60000
+AP162APH06==> [extension-scheduler-pool-6] 30 Apr 2024 09:25:42,811  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 09:26:48,214  INFO ControllerTimeSkewHandler - Agent timestamp: 1714454808214; Controller timestamp: 1714454791603; Skew value=16611 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 09:27:16,623  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59988 every 60000
+AP162APH06==> [extension-scheduler-pool-0] 30 Apr 2024 09:31:12,806  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 09:31:48,240  INFO ControllerTimeSkewHandler - Agent timestamp: 1714455108240; Controller timestamp: 1714455091631; Skew value=16609 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 09:32:16,618  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59991 every 60000
+AP162APH06==> [extension-scheduler-pool-9] 30 Apr 2024 09:36:42,803  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 09:36:48,266  INFO ControllerTimeSkewHandler - Agent timestamp: 1714455408266; Controller timestamp: 1714455391658; Skew value=16608 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 09:37:16,616  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59992 every 60000
+AP162APH06==> [extension-scheduler-pool-10] 30 Apr 2024 09:41:42,800  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 09:41:48,297  INFO ControllerTimeSkewHandler - Agent timestamp: 1714455708297; Controller timestamp: 1714455691690; Skew value=16607 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 09:42:16,613  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59994 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 09:46:48,354  INFO ControllerTimeSkewHandler - Agent timestamp: 1714456008354; Controller timestamp: 1714455991721; Skew value=16633 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-2] 30 Apr 2024 09:47:12,828  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 09:47:16,625  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60008 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 09:51:48,405  INFO ControllerTimeSkewHandler - Agent timestamp: 1714456308405; Controller timestamp: 1714456291751; Skew value=16654 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 09:52:16,643  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60011 every 60000
+AP162APH06==> [extension-scheduler-pool-0] 30 Apr 2024 09:52:42,846  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 09:56:48,442  INFO ControllerTimeSkewHandler - Agent timestamp: 1714456608442; Controller timestamp: 1714456591780; Skew value=16662 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 09:57:16,668  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59994 every 60000
+AP162APH06==> [extension-scheduler-pool-9] 30 Apr 2024 09:57:42,852  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 10:01:48,473  INFO ControllerTimeSkewHandler - Agent timestamp: 1714456908473; Controller timestamp: 1714456891821; Skew value=16652 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 10:02:16,670  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59982 every 60000
+AP162APH06==> [extension-scheduler-pool-9] 30 Apr 2024 10:03:12,820  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 10:06:48,502  INFO ControllerTimeSkewHandler - Agent timestamp: 1714457208502; Controller timestamp: 1714457191878; Skew value=16624 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 10:07:16,660  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59964 every 60000
+AP162APH06==> [extension-scheduler-pool-8] 30 Apr 2024 10:08:12,807  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 10:11:48,522  INFO ControllerTimeSkewHandler - Agent timestamp: 1714457508522; Controller timestamp: 1714457491908; Skew value=16614 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 10:12:16,633  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59981 every 60000
+AP162APH06==> [extension-scheduler-pool-2] 30 Apr 2024 10:13:42,802  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 10:16:48,544  INFO ControllerTimeSkewHandler - Agent timestamp: 1714457808544; Controller timestamp: 1714457791935; Skew value=16609 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 10:17:16,624  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59985 every 60000
+AP162APH06==> [extension-scheduler-pool-3] 30 Apr 2024 10:18:42,797  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [extension-scheduler-pool-4] 30 Apr 2024 10:20:29,866  INFO AwsTagsSupplier - Skip retrieving AWS tags. Server is either not on AWS or cannot connect to AWS services
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 10:21:48,581  INFO ControllerTimeSkewHandler - Agent timestamp: 1714458108581; Controller timestamp: 1714458091966; Skew value=16615 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 10:22:16,617  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59998 every 60000
+AP162APH06==> [extension-scheduler-pool-3] 30 Apr 2024 10:24:12,789  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 10:26:48,616  INFO ControllerTimeSkewHandler - Agent timestamp: 1714458408616; Controller timestamp: 1714458391998; Skew value=16618 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 10:27:16,617  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60001 every 60000
+AP162APH06==> [extension-scheduler-pool-6] 30 Apr 2024 10:29:42,805  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 10:31:48,644  INFO ControllerTimeSkewHandler - Agent timestamp: 1714458708644; Controller timestamp: 1714458692026; Skew value=16618 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-8] 30 Apr 2024 10:35:12,787  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 10:36:48,687  INFO ControllerTimeSkewHandler - Agent timestamp: 1714459008687; Controller timestamp: 1714458992056; Skew value=16631 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 10:37:16,630  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60001 every 60000
+AP162APH06==> [extension-scheduler-pool-9] 30 Apr 2024 10:40:42,830  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 10:41:48,738  INFO ControllerTimeSkewHandler - Agent timestamp: 1714459308738; Controller timestamp: 1714459292087; Skew value=16651 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 10:42:16,648  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60003 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 30 Apr 2024 10:45:42,838  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 10:46:48,773  INFO ControllerTimeSkewHandler - Agent timestamp: 1714459608773; Controller timestamp: 1714459592114; Skew value=16659 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 10:47:16,653  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60006 every 60000
+AP162APH06==> [extension-scheduler-pool-3] 30 Apr 2024 10:50:42,842  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 10:51:48,807  INFO ControllerTimeSkewHandler - Agent timestamp: 1714459908807; Controller timestamp: 1714459892143; Skew value=16664 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 10:52:16,669  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59995 every 60000
+AP162APH06==> [extension-scheduler-pool-10] 30 Apr 2024 10:56:12,839  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 10:56:48,850  INFO ControllerTimeSkewHandler - Agent timestamp: 1714460208850; Controller timestamp: 1714460192171; Skew value=16679 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 10:57:16,670  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60009 every 60000
+AP162APH06==> [extension-scheduler-pool-11] 30 Apr 2024 11:01:42,861  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 11:01:48,890  INFO ControllerTimeSkewHandler - Agent timestamp: 1714460508890; Controller timestamp: 1714460492210; Skew value=16680 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 11:02:16,690  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59990 every 60000
+AP162APH06==> [extension-scheduler-pool-0] 30 Apr 2024 11:06:42,866  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 11:06:48,927  INFO ControllerTimeSkewHandler - Agent timestamp: 1714460808927; Controller timestamp: 1714460792242; Skew value=16685 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 11:07:16,694  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59991 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 11:11:48,945  INFO ControllerTimeSkewHandler - Agent timestamp: 1714461108945; Controller timestamp: 1714461092285; Skew value=16660 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-10] 30 Apr 2024 11:12:12,834  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 11:12:16,693  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59967 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 11:16:48,964  INFO ControllerTimeSkewHandler - Agent timestamp: 1714461408964; Controller timestamp: 1714461392330; Skew value=16634 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-8] 30 Apr 2024 11:17:12,810  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 11:17:16,669  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59965 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 11:21:48,987  INFO ControllerTimeSkewHandler - Agent timestamp: 1714461708987; Controller timestamp: 1714461692362; Skew value=16625 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 11:22:16,644  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59981 every 60000
+AP162APH06==> [extension-scheduler-pool-11] 30 Apr 2024 11:22:42,799  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 11:26:49,012  INFO ControllerTimeSkewHandler - Agent timestamp: 1714462009012; Controller timestamp: 1714461992388; Skew value=16624 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 11:27:16,646  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59978 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 30 Apr 2024 11:27:42,804  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 11:31:49,071  INFO ControllerTimeSkewHandler - Agent timestamp: 1714462309071; Controller timestamp: 1714462292418; Skew value=16653 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 11:32:16,638  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60015 every 60000
+AP162APH06==> [extension-scheduler-pool-10] 30 Apr 2024 11:33:12,828  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 11:36:49,111  INFO ControllerTimeSkewHandler - Agent timestamp: 1714462609111; Controller timestamp: 1714462592449; Skew value=16662 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 11:37:16,661  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60001 every 60000
+AP162APH06==> [extension-scheduler-pool-8] 30 Apr 2024 11:38:42,834  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 11:41:49,147  INFO ControllerTimeSkewHandler - Agent timestamp: 1714462909147; Controller timestamp: 1714462892481; Skew value=16666 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 11:42:16,664  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60002 every 60000
+AP162APH06==> [extension-scheduler-pool-7] 30 Apr 2024 11:43:42,837  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 11:46:49,187  INFO ControllerTimeSkewHandler - Agent timestamp: 1714463209187; Controller timestamp: 1714463192509; Skew value=16678 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 11:47:16,675  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60003 every 60000
+AP162APH06==> [extension-scheduler-pool-1] 30 Apr 2024 11:48:42,852  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 11:51:49,223  INFO ControllerTimeSkewHandler - Agent timestamp: 1714463509223; Controller timestamp: 1714463492537; Skew value=16686 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 11:52:16,694  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59992 every 60000
+AP162APH06==> [extension-scheduler-pool-1] 30 Apr 2024 11:54:12,838  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 11:56:49,251  INFO ControllerTimeSkewHandler - Agent timestamp: 1714463809251; Controller timestamp: 1714463792560; Skew value=16691 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 11:57:16,692  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59999 every 60000
+AP162APH06==> [extension-scheduler-pool-11] 30 Apr 2024 11:59:12,839  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 12:01:49,278  INFO ControllerTimeSkewHandler - Agent timestamp: 1714464109278; Controller timestamp: 1714464092612; Skew value=16666 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 12:02:16,699  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59967 every 60000
+AP162APH06==> [extension-scheduler-pool-6] 30 Apr 2024 12:04:42,823  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 12:06:49,295  INFO ControllerTimeSkewHandler - Agent timestamp: 1714464409295; Controller timestamp: 1714464392655; Skew value=16640 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 12:07:16,673  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59967 every 60000
+AP162APH06==> [extension-scheduler-pool-6] 30 Apr 2024 12:10:12,790  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 12:11:49,317  INFO ControllerTimeSkewHandler - Agent timestamp: 1714464709317; Controller timestamp: 1714464692686; Skew value=16631 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 12:12:16,647  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59984 every 60000
+AP162APH06==> [extension-scheduler-pool-4] 30 Apr 2024 12:15:12,800  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 12:16:49,343  INFO ControllerTimeSkewHandler - Agent timestamp: 1714465009343; Controller timestamp: 1714464992716; Skew value=16627 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 12:17:16,641  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59986 every 60000
+AP162APH06==> [extension-scheduler-pool-9] 30 Apr 2024 12:20:42,810  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 12:21:49,387  INFO ControllerTimeSkewHandler - Agent timestamp: 1714465309387; Controller timestamp: 1714465292744; Skew value=16643 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 12:22:16,641  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60002 every 60000
+AP162APH06==> [extension-scheduler-pool-8] 30 Apr 2024 12:26:12,803  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 12:26:49,427  INFO ControllerTimeSkewHandler - Agent timestamp: 1714465609427; Controller timestamp: 1714465592777; Skew value=16650 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 12:27:16,651  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59999 every 60000
+AP162APH06==> [extension-scheduler-pool-1] 30 Apr 2024 12:31:42,822  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 12:31:49,459  INFO ControllerTimeSkewHandler - Agent timestamp: 1714465909459; Controller timestamp: 1714465892804; Skew value=16655 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 12:32:16,651  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60004 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 30 Apr 2024 12:36:42,826  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 12:36:49,495  INFO ControllerTimeSkewHandler - Agent timestamp: 1714466209495; Controller timestamp: 1714466192833; Skew value=16662 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 12:37:16,671  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59991 every 60000
+AP162APH06==> [extension-scheduler-pool-3] 30 Apr 2024 12:41:42,834  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 12:41:49,535  INFO ControllerTimeSkewHandler - Agent timestamp: 1714466509535; Controller timestamp: 1714466492865; Skew value=16670 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 12:42:16,678  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59992 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 12:46:49,567  INFO ControllerTimeSkewHandler - Agent timestamp: 1714466809567; Controller timestamp: 1714466792892; Skew value=16675 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-6] 30 Apr 2024 12:47:12,820  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 12:47:16,679  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59996 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 12:51:49,601  INFO ControllerTimeSkewHandler - Agent timestamp: 1714467109601; Controller timestamp: 1714467092922; Skew value=16679 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-10] 30 Apr 2024 12:52:12,826  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 12:52:16,685  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59994 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 12:56:49,650  INFO ControllerTimeSkewHandler - Agent timestamp: 1714467409650; Controller timestamp: 1714467392954; Skew value=16696 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 12:57:16,685  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60011 every 60000
+AP162APH06==> [extension-scheduler-pool-1] 30 Apr 2024 12:57:42,857  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 13:01:49,691  INFO ControllerTimeSkewHandler - Agent timestamp: 1714467709691; Controller timestamp: 1714467692990; Skew value=16701 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 13:02:16,706  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59995 every 60000
+AP162APH06==> [extension-scheduler-pool-0] 30 Apr 2024 13:03:12,862  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 13:06:49,724  INFO ControllerTimeSkewHandler - Agent timestamp: 1714468009724; Controller timestamp: 1714467993017; Skew value=16707 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 13:07:16,709  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59998 every 60000
+AP162APH06==> [extension-scheduler-pool-0] 30 Apr 2024 13:08:42,867  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 13:11:49,752  INFO ControllerTimeSkewHandler - Agent timestamp: 1714468309752; Controller timestamp: 1714468293077; Skew value=16675 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 13:12:16,719  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59956 every 60000
+AP162APH06==> [extension-scheduler-pool-3] 30 Apr 2024 13:14:12,799  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 13:16:49,769  INFO ControllerTimeSkewHandler - Agent timestamp: 1714468609769; Controller timestamp: 1714468593120; Skew value=16649 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 13:17:16,679  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59970 every 60000
+AP162APH06==> [extension-scheduler-pool-6] 30 Apr 2024 13:19:12,799  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 13:21:49,794  INFO ControllerTimeSkewHandler - Agent timestamp: 1714468909794; Controller timestamp: 1714468893153; Skew value=16641 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 13:22:16,653  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59988 every 60000
+AP162APH06==> [extension-scheduler-pool-7] 30 Apr 2024 13:24:42,791  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 13:26:49,824  INFO ControllerTimeSkewHandler - Agent timestamp: 1714469209824; Controller timestamp: 1714469193180; Skew value=16644 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 13:27:16,660  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59984 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 30 Apr 2024 13:30:12,798  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 13:31:49,876  INFO ControllerTimeSkewHandler - Agent timestamp: 1714469509876; Controller timestamp: 1714469493210; Skew value=16666 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 13:32:16,661  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60005 every 60000
+AP162APH06==> [extension-scheduler-pool-5] 30 Apr 2024 13:35:12,820  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 13:36:49,909  INFO ControllerTimeSkewHandler - Agent timestamp: 1714469809909; Controller timestamp: 1714469793236; Skew value=16673 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 13:37:16,682  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59991 every 60000
+AP162APH06==> [extension-scheduler-pool-4] 30 Apr 2024 13:40:12,824  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 13:41:49,945  INFO ControllerTimeSkewHandler - Agent timestamp: 1714470109945; Controller timestamp: 1714470093269; Skew value=16676 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 13:42:16,684  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59992 every 60000
+AP162APH06==> [extension-scheduler-pool-9] 30 Apr 2024 13:45:42,836  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 13:46:49,991  INFO ControllerTimeSkewHandler - Agent timestamp: 1714470409991; Controller timestamp: 1714470393299; Skew value=16692 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 13:47:16,683  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 60009 every 60000
+AP162APH06==> [extension-scheduler-pool-0] 30 Apr 2024 13:50:42,845  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 13:51:50,029  INFO ControllerTimeSkewHandler - Agent timestamp: 1714470710029; Controller timestamp: 1714470693327; Skew value=16702 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 13:52:16,705  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59997 every 60000
+AP162APH06==> [extension-scheduler-pool-8] 30 Apr 2024 13:56:12,835  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 13:56:50,064  INFO ControllerTimeSkewHandler - Agent timestamp: 1714471010064; Controller timestamp: 1714470993356; Skew value=16708 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 13:57:16,709  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59999 every 60000
+AP162APH06==> [extension-scheduler-pool-3] 30 Apr 2024 14:01:12,835  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 14:01:50,092  INFO ControllerTimeSkewHandler - Agent timestamp: 1714471310092; Controller timestamp: 1714471293413; Skew value=16679 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 14:02:16,716  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59963 every 60000
+AP162APH06==> [extension-scheduler-pool-3] 30 Apr 2024 14:06:42,798  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 14:06:50,122  INFO ControllerTimeSkewHandler - Agent timestamp: 1714471610122; Controller timestamp: 1714471593474; Skew value=16648 msec; agentLagging=false
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 14:07:16,686  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59962 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 14:11:50,129  INFO ControllerTimeSkewHandler - Agent timestamp: 1714471910129; Controller timestamp: 1714471893486; Skew value=16643 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-3] 30 Apr 2024 14:12:12,770  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter1] 30 Apr 2024 14:12:16,660  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59983 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 14:16:50,153  INFO ControllerTimeSkewHandler - Agent timestamp: 1714472210153; Controller timestamp: 1714472193520; Skew value=16633 msec; agentLagging=false
+AP162APH06==> [extension-scheduler-pool-7] 30 Apr 2024 14:17:12,778  INFO ReportMetricsConfigSupplier - Basic metrics will be collected and reported through the SIM extension because SIM is enabled.
+AP162APH06==> [AD Thread-Metric Reporter0] 30 Apr 2024 14:17:16,653  INFO ManagedMonitorDelegate - MetricAggregation re-scheduled at 59980 every 60000
+AP162APH06==> [Agent-Scheduler-1] 30 Apr 2024 14:21:50,198  INFO ControllerTimeSkewHandler - Agent timestamp: 1714472510198; Controller timestamp: 1714472493547; Skew value=16651 msec; agentLagging=false
